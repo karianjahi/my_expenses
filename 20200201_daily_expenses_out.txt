@@ -1,0 +1,69 @@
+date/time,description,amount
+2020-Mar-05 18:39, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.32
+2020-Mar-05 10:00, Netflix,10
+2020-Mar-04 22:26, Tuev Sued Auto Service GmbH,91.75
+2020-Mar-04 19:37, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,4.02
+2020-Mar-04 19:24, Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe,24.99
+2020-Mar-04 16:06, Transport KVV,2.6
+2020-Mar-03 18:09, Furniture Schreibwaren Reeb Marstallstr.6 76227 Karlsruhe-Durlach,4.95
+2020-Mar-03 17:57, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,13.7
+2020-Mar-03 14:51, Kenya Transactions,141.5
+2020-Mar-02 18:45, Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,5.22
+2020-Mar-02 18:00, Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,27.99
+2020-Mar-02 17:54, Food Items Zähringerstr.47 76133 Karlruhe,9.9
+2020-Mar-02 17:47, Food Items Sindbad Food Adlerstr. 36 76133 Karlsruhe,9.58
+2020-Mar-02 08:45, Rent Bergwald,680
+2020-Mar-02 08:45, Utility costs Bergwald,4.33
+2020-Feb-29 20:54, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,25.67
+2020-Feb-29 20:37, Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,11.51
+2020-Feb-28 18:25, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,19.61
+2020-Feb-26 18:26, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,18.04
+2020-Feb-26 09:44, Transport Mulburger Tor direction Europaplatz,2.6
+2020-Feb-25 09:30, headphones Kaiserstr. 70-74 76133 Karlsruhe,5
+2020-Feb-24 19:03, Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
+2020-Feb-24 18:33, Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
+2020-Feb-24 18:08, Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
+2020-Feb-22 21:30, DAZN TW13 7BZ United Kingdom,11.99
+2020-Feb-22 13:32, EinzelFahrkarte KVV Zündhütle,2.6
+2020-Feb-21 18:31, Aldi Sued Waldstr.14-18 76133 Karlsruhe,16.82
+2020-Feb-21 09:48, Deutsche Post Ag 76229 Karlsruhe,0.8
+2020-Feb-20 19:59, Food Items Rewe Ettlinger Tor Platz 1 76133 Karlsruhe,1.99
+2020-Feb-20 19:48, Medicine Apotheke Philipp Heldmann Ettlinger Tor Platz 1 76133 Karlsruhe,18.96
+2020-Feb-19 18:55, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,22.48
+2020-Feb-18 18:25, Food Items Aldi Sued Tiengenestr.2 76227 Karlsruhe,1.33
+2020-Feb-17 18:40, Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,3.25
+2020-Feb-17 18:26, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,3.46
+2020-Feb-17 18:19, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,14.18
+2020-Feb-17 09:10, Furniture Deutsche Bank ATM Badenerstr.8 76227 Karlruhe,150
+2020-Feb-15 18:50, Food Items Lidl Tivoliplatz 1 76137 Karlsruhe,1.04
+2020-Feb-14 19:02, Food Items Zähringerstr.47 76133 Karlruhe,22
+2020-Feb-14 18:56, Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.02
+2020-Feb-14 18:41, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,19.68
+2020-Feb-13 18:31, Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.32
+2020-Feb-13 18:15, Deutsche post Tabakshop pfinztalstr. 28 76227 Karlsruhe-Durlach,3.1
+2020-Feb-13 10:03, Transport Mülburger Tor direction Europaplatz,2.6
+2020-Feb-12 18:37, Food Items Aldi Sued Wöschbacherstr. 29 76327 Pfinztal - Berghausen,13.65
+2020-Feb-11 16:00, Transport KVV Karlsruhe,2.6
+2020-Feb-11 15:50, Food Items Penny Scheffel Str.1,15.13
+2020-Feb-11 12:38, Clothing Woolworth Europaplatz,6.56
+2020-Feb-11 10:22, Driving license fee steinhaeuserstr.22,8.7
+2020-Feb-11 09:00, Transport KVV Karlsruhe,2.6
+2020-Feb-10 18:59, Food Items Aldi Sued Tiengenerstr.2,6.24
+2020-Feb-10 18:36, Food Items Penny Am Storrenacker.1b,6.65
+2020-Feb-08 17:15, Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
+2020-Feb-08 16:37, Lycamobile credit Aldi Sued Heilberg.13 76448 Durmersheim,10
+2020-Feb-08 15:59, Transport KVV Durmeisheim,4.4
+2020-Feb-08 12:22, Transport KVV Karsruhe,2.6
+2020-Feb-06 20:15, Mogogo Eat joint Stephanienstr.2a 76133 Karlsruhe,16.3
+2020-Feb-06 18:52, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,13.05
+2020-Feb-05 21:35, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.28
+2020-Feb-05 21:31, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,10.84
+2020-Feb-05 17:21, Bicycle Repair Radsport Kaiserstr.11,107
+2020-Feb-05 10:00, Netflix,10
+2020-Feb-03 19:06, Food Items Asian Store Markgrafenstr.27 Karlsruhe,19.79
+2020-Feb-03 18:30, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.24
+2020-Feb-03 18:26, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.67
+2020-Feb-03 17:31, Transport KVV,2.6
+2020-Feb-02 11:45, Rent Bergwald,680
+2020-Feb-01 20:30, Food items Aldi sued,34.63
+2020-Feb-01 12:40, Kenya transactions,200

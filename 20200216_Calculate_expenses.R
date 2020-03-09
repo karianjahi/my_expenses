@@ -1,5 +1,5 @@
-filename = "/home/karianjahi/Downloads/20200201_daily_expenses.txt"
-outfilename = "/home/karianjahi/Downloads/20200201_daily_expenses_out.txt"
+filename = "/home/karianjahi/Downloads/my_expenses/20200201_daily_expenses.txt"
+outfilename = "/home/karianjahi/Downloads/my_expenses/20200201_daily_expenses_out.txt"
 data = read.delim(filename, sep = ",", stringsAsFactors = FALSE)
 add0 = function(x) ifelse(nchar(x) < 2, paste0("0", x), x)
 add0After = function(x) ifelse(nchar(x) < 2, paste0(x, "0"), x)

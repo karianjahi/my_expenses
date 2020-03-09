@@ -65,6 +65,23 @@ date,time,description,amount
 04.03.2020,19.24, Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe, 24.99
 05.03.2020,18.39, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach, 16.32
 04.03.2020,22.26, Tuev Sued Auto Service GmbH, 91.75
-05.03.2020,10.00, Netflix, 10.00
-05.02.2020,10.00, Netflix, 10.00
+05.03.2020,10.00, Entertaintment Netflix, 10.00
+05.02.2020,10.00, Entertainment Netflix, 10.00
+07.03.2020,09.46,Food Items Waldstr.14-18 Karlsruhe, 23.29
+07.03.2020,09.00,Transport KVV, 2.60 
+07.03.2020,10.09,Food Items Markgrafenstr.27 76131 Karlsruhe, 31.50
+07.03.2020,11.03,Food Items Sindbad Markt Adlerstr.36 76133 Karlsruhe, 14.94
+07.03.2020,09.21,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,6.30
+06.03.2020,18.44,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,25.42
+07.03.2020,16.03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.93
+07.03.2020,20.07,Transport KVV,2.60
+07.03.2020,19.23,Lycamobile Airtime,10.00
+08.03.2020,10.00,Transport KVV,5.20
+09.03.2020,19.00,Transport KVV,2.60
+07.03.2020,16.00, Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach, 22
+
+
+
+
+
 

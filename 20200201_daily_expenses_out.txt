@@ -1,6 +1,18 @@
 date/time,description,amount
+2020-Mar-09 19:00,Transport KVV,2.6
+2020-Mar-08 10:00,Transport KVV,5.2
+2020-Mar-07 20:07,Transport KVV,2.6
+2020-Mar-07 19:23,Lycamobile Airtime,10
+2020-Mar-07 16:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.93
+2020-Mar-07 16:00, Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,22
+2020-Mar-07 11:03,Food Items Sindbad Markt Adlerstr.36 76133 Karlsruhe,14.94
+2020-Mar-07 10:09,Food Items Markgrafenstr.27 76131 Karlsruhe,31.5
+2020-Mar-07 09:46,Food Items Waldstr.14-18 Karlsruhe,23.29
+2020-Mar-07 09:21,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,6.3
+2020-Mar-07 09:00,Transport KVV,2.6
+2020-Mar-06 18:44,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,25.42
 2020-Mar-05 18:39, Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.32
-2020-Mar-05 10:00, Netflix,10
+2020-Mar-05 10:00, Entertaintment Netflix,10
 2020-Mar-04 22:26, Tuev Sued Auto Service GmbH,91.75
 2020-Mar-04 19:37, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,4.02
 2020-Mar-04 19:24, Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe,24.99
@@ -59,7 +71,7 @@ date/time,description,amount
 2020-Feb-05 21:35, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.28
 2020-Feb-05 21:31, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,10.84
 2020-Feb-05 17:21, Bicycle Repair Radsport Kaiserstr.11,107
-2020-Feb-05 10:00, Netflix,10
+2020-Feb-05 10:00, Entertainment Netflix,10
 2020-Feb-03 19:06, Food Items Asian Store Markgrafenstr.27 Karlsruhe,19.79
 2020-Feb-03 18:30, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.24
 2020-Feb-03 18:26, Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.67

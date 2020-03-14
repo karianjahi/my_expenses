@@ -67,7 +67,7 @@ date,time,description,amount
 04.03.2020,22.26, Tuev Sued Auto Service GmbH, 91.75
 05.03.2020,10.00, Entertaintment Netflix, 10.00
 05.02.2020,10.00, Entertainment Netflix, 10.00
-07.03.2020,09.46,Food Items Waldstr.14-18 Karlsruhe, 23.29
+07.03.2020,09.46,Food Items Aldi Sued Waldstr.14-18 Karlsruhe, 23.29
 07.03.2020,09.00,Transport KVV, 2.60 
 07.03.2020,10.09,Food Items Markgrafenstr.27 76131 Karlsruhe, 31.50
 07.03.2020,11.03,Food Items Sindbad Markt Adlerstr.36 76133 Karlsruhe, 14.94
@@ -79,8 +79,19 @@ date,time,description,amount
 08.03.2020,10.00,Transport KVV,5.20
 09.03.2020,19.00,Transport KVV,2.60
 07.03.2020,16.00, Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach, 22
-
-
+11.03.2020,16.36, Mobil VoiP, 12.42
+14.03.2020,14.10,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe,1.00
+14.03.2020,14.05,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe, 64.98
+14.03.2020,11.22,Transport KVV,6.70
+14.03.2020,13.05,Food items Durlacher Allee 11 76137 Karlsruhe,11.98
+13.03.2020,20.37,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.29
+09.03.2020,19.57,Transport KVV,2.60
+13.03.2020,20.24,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach, 9.35
+13.03.2020,19.52,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,5.91
+12.03.2020,17.37,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,7.83
+12.03.2020,17.26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe, 17.50
+13.03.2020,10.39,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,2.75
+14.03.2020,12.16,Furniture Bauhaus Kaeppelenstr.2 76131 Karlsruhe-Durlach,8.40
 
 
 

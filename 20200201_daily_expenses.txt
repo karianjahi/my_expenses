@@ -92,6 +92,9 @@ date,time,description,amount
 12.03.2020,17.26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe, 17.50
 13.03.2020,10.39,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,2.75
 14.03.2020,12.16,Furniture Bauhaus Kaeppelenstr.2 76131 Karlsruhe-Durlach,8.40
+16.03.2020,8.02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,93
+20.03.2020,17.35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
+20.03.2020,22.10,Unity Media Aachener str. 746-750 50933 Köln, 80.63
 
 
 

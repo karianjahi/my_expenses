@@ -10,9 +10,9 @@ data$time = unlist(lapply(strsplit(dtime_char, "\\."), function(x) paste0(add0(x
 date_time = format(strptime(paste0(data$date, " ", data$time), format = "%d.%m.%Y %H.%M"), format = "%Y-%b-%d %H:%M")
 data = data.frame(cbind(time = date_time, data[, 3:ncol(data)]))
 names(data) = c("date/time", names(data)[2:3])
-data = data[order(strptime(data$`date/time`, "%Y-%b-%d %H:%M"), decreasing = TRUE), ]
+data = data[order(strptime(data$`date/time`, "%Y-%b-%d %H:%M"), decreasing = FALSE), ]
 
-salary = 2530
+salary = 2245
 write.table(x = data, file = outfilename, sep = ",", quote = FALSE, col.names = TRUE, row.names = FALSE)
 
 # Aggregate by day 

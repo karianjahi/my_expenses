@@ -95,3 +95,12 @@ date/time,description,amount
 2020-Mar-16 08:02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,93
 2020-Mar-20 17:35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
 2020-Mar-20 22:10,Unity Media Aachener str. 746-750 50933 Köln,80.63
+2020-Mar-21 17:20,Hygiene Items DM Karlstr.36 76133 Karlsruhe,22.9
+2020-Mar-23 11:12,Hygiene Items DM Kaisertr.92 76133 Karlsruhe,13.65
+2020-Mar-23 16:14,Hygiene Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.65
+2020-Mar-23 16:29,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,-1.06
+2020-Mar-23 16:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,0.75
+2020-Mar-25 10:08,Hygiene Items DM Karlstr.106 76137 Karlsruhe,7.9
+2020-Mar-25 10:37,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,3.2
+2020-Mar-25 11:39,Stationary Deutsche Post AG Kaiserstr.217 76133 Karlsruhe,3.09
+2020-Mar-25 12:00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,24.87

@@ -104,3 +104,14 @@ date,time,description,amount
 23.03.2020,16.29,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,-1.06
 25.03.2020,10.37,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,3.20
 21.03.2020,17.20,Hygiene Items DM Karlstr.36 76133 Karlsruhe,22.90
+30.03.2020,17.12,Hygiene Items DM Prinz-Wilhelm-str.8 76646 Bruchsal,3.70
+30.03.2020,17.37,Food Items Aldi Sued Prinz-Wilhelm-str.8 76646 Bruchsal,6.60
+27.03.2020,11.25,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,14.91
+28.03.2020,20.08,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,7.48
+28.03.2020,19.41,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,17.72
+27.03.2020,12.00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.01
+28.03.2020,20.30,Deutsche Post Kaiserstr.217 76133 Karlsruhe,0.80
+27.03.2020,11.46,Food Items Markgrafenstr.27 76131 Karlsruhe,14.65
+27.03.2020,11.10,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,2.70
+28.03.2020,14.27,Medicine Hautpost-Apotheke Kaiserstr.156 76133 Karlsruhe,7.55
+28.03.2020,19.50,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruh-Durlach, 7.65

@@ -115,5 +115,7 @@ date,time,description,amount
 27.03.2020,11.10,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,2.70
 28.03.2020,14.27,Medicine Hautpost-Apotheke Kaiserstr.156 76133 Karlsruhe,7.55
 28.03.2020,19.50,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruh-Durlach, 7.65
-31.03.2020,17.05,Rundfunkbeitrag ARD ZDF Deutschland radio Beitragsservice 50656 Köln,52.50
 31.03.2020,17.35,Driving Jörg Schwenker Bockstalstr.4 76327 Pfinztal,280.00
+01.04.2020,09.00,Rundfunkbeitrag ARD ZDF Deutschland radio Beitragsservice 50656 Köln,52.50
+01.04.2020,09.00,Rent Bergwald,680
+01.04.2020,11.30,Kenya Transactions,177.65

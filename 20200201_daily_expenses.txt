@@ -146,6 +146,10 @@ date,time,description,amount
 05.04.2020,10.00,Entertainment Netflix,10.00
 06.04.2020,12.00,Family Residence permit Stadt Karlsruhe Ordnungs-und Buerger Buro Kaiseralle 8 76133 Karlsruhe,237.50
 02.04.2020,12.00,Sports Club Emmanuel Hohenwettersbach, 40.00
-
+11.04.2020,18.00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,6.07
+11.04.2020,18.10,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,3.50
+11.04.2020,18.23,Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3.18
+11.04.2020,18.45,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,2.58
+11.04.2020,18.43,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,1.56
 
 

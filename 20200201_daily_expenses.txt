@@ -151,5 +151,17 @@ date,time,description,amount
 11.04.2020,18.23,Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3.18
 11.04.2020,18.45,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,2.58
 11.04.2020,18.43,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,1.56
+14.04.2020,16.18,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,11.08
+14.04.2020,16.15,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,28.26
+14.04.2020,17.15,Food Items Lidl Tivoliplatz 1 76137 Karsruhe,1.99
+14.04.2020,16.53,Hygiene DM Kaiserstr.92 76133 Karlsruhe,16.85
+14.04.2020,16.35,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,14.31
+14.04.2020,23.00,Furniture DanDiBo-Ambiente Ziegenberg.7-9 29649 Wietzendorf,18.99
+13.04.2020,15.15,Furniture Ouesen No.609 6 F A Building Huafeng Baoan Zhigu Technology Innovation Park Yintian Road 4 Baoan District Shenzhen city Guangdong 518000,119.98
+13.04.2020,15.15,Phone Holder Yosh-DE Nantou Street Nanshan District Shenzhen Guangdong 518000 CN,6.99
+
+
+
+
 
 

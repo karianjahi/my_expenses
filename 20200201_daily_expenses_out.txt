@@ -159,3 +159,8 @@ date/time,description,amount
 2020-Apr-14 16:53,Hygiene DM Kaiserstr.92 76133 Karlsruhe,16.85
 2020-Apr-14 17:15,Food Items Lidl Tivoliplatz 1 76137 Karsruhe,1.99
 2020-Apr-14 23:00,Furniture DanDiBo-Ambiente Ziegenberg.7-9 29649 Wietzendorf,18.99
+2020-Apr-16 17:17,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,16.49
+2020-Apr-16 17:35,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,2.55
+2020-Apr-16 17:46,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,8.65
+2020-Apr-16 17:59,Medicine Terrasen-Apotheke Raiherwiesenstr.19 76227 Karlsruhe,8.85
+2020-Apr-16 23:50,Phone Charger JS Digital amazon,7.99

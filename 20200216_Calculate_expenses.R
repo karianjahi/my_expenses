@@ -1,5 +1,5 @@
-filename = "/home/karianjahi/Downloads/my_expenses/20200201_daily_expenses.txt"
-outfilename = "/home/karianjahi/Downloads/my_expenses/20200201_daily_expenses_out.txt"
+filename = "20200201_daily_expenses.txt"
+outfilename = "20200201_daily_expenses_out.txt"
 data = read.delim(filename, sep = ",", stringsAsFactors = FALSE)
 add0 = function(x) ifelse(nchar(x) < 2, paste0("0", x), x)
 add0After = function(x) ifelse(nchar(x) < 2, paste0(x, "0"), x)
@@ -52,3 +52,5 @@ avoidable_table = data[-c(grep("Rent", data$description), grep("Food", data$desc
 avoidable_expenses = sum(avoidable_table$amount) ; mon_list$avoidable_expenses = avoidable_expenses
 lean_table = data[c(grep("Rent", data$description), grep("Food", data$description)), ]
 lean_expenses = sum(lean_table$amount) ; mon_list$lean_expenses_rent_and_food = lean_expenses
+
+

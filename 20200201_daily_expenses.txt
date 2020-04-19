@@ -171,4 +171,5 @@ date,time,description,amount
 18.04.2020,17.37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,15.55
 18.04.2020,18.07,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.74
 19.04.2020,07.30,Furniture Amazon,19.99
+19.04.2020,15.30,Stationary Amazon,25.75
 

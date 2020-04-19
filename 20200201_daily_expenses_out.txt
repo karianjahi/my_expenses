@@ -171,3 +171,4 @@ date/time,description,amount
 2020-Apr-18 18:37,Food Items Sinbad Food Adlerstr.36 76133 Karslruhe,7.73
 2020-Apr-18 18:50,Food Items Asia Store Markgrafenstr.27 76133 Karlsruhe,3.18
 2020-Apr-19 07:30,Furniture Amazon,19.99
+2020-Apr-19 15:30,Stationary Amazon,25.75

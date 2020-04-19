@@ -165,5 +165,10 @@ date,time,description,amount
 16.04.2020,17.35,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,2.55
 16.04.2020,17.17,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,16.49
 17.04.2020,16.34,Lycamobile credit Online pay,10
-
+18.04.2020,18.50,Food Items Asia Store Markgrafenstr.27 76133 Karlsruhe, 3.18
+18.04.2020,18.20,Hygiene DM Kaiserstr.92 76133 Karlsruhe,4.25
+18.04.2020,18.37,Food Items Sinbad Food Adlerstr.36 76133 Karslruhe,7.73
+18.04.2020,17.37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,15.55
+18.04.2020,18.07,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.74
+19.04.2020,07.30,Furniture Amazon,19.99
 

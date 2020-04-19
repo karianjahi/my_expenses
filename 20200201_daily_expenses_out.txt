@@ -165,3 +165,9 @@ date/time,description,amount
 2020-Apr-16 17:59,Medicine Terrasen-Apotheke Raiherwiesenstr.19 76227 Karlsruhe,8.85
 2020-Apr-16 23:50,Phone Charger JS Digital amazon,7.99
 2020-Apr-17 16:34,Lycamobile credit Online pay,10
+2020-Apr-18 17:37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,15.55
+2020-Apr-18 18:07,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.74
+2020-Apr-18 18:20,Hygiene DM Kaiserstr.92 76133 Karlsruhe,4.25
+2020-Apr-18 18:37,Food Items Sinbad Food Adlerstr.36 76133 Karslruhe,7.73
+2020-Apr-18 18:50,Food Items Asia Store Markgrafenstr.27 76133 Karlsruhe,3.18
+2020-Apr-19 07:30,Furniture Amazon,19.99

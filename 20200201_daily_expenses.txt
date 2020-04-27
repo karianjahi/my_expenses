@@ -13,7 +13,7 @@ date,time,description,amount
 06.02.2020,20.15,Mogogo Eat joint Stephanienstr.2a 76133 Karlsruhe,16.3
 08.02.2020,12.22,Transport KVV Karsruhe,2.6
 08.02.2020,15.59,Transport KVV Durmeisheim,4.4
-08.02.2020,16.37,Lycamobile credit Aldi Sued Heilberg.13 76448 Durmersheim,10
+08.02.2020,16.37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
 08.02.2020,17.15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
 10.02.2020,18.36,Food Items Penny Am Storrenacker.1b,6.65
 10.02.2020,18.59,Food Items Aldi Sued Tiengenerstr.2,6.24
@@ -22,8 +22,8 @@ date,time,description,amount
 11.02.2020,12.38,Clothing Woolworth Europaplatz,6.56
 11.02.2020,15.50,Food Items Penny Scheffel Str.1,15.13
 11.02.2020,16.00,Transport KVV Karlsruhe,2.6
-12.02.2020,18.37,Food Items Aldi Sued Wöschbacherstr. 29 76327 Pfinztal - Berghausen,13.65
-13.02.2020,10.03,Transport Mülburger Tor direction Europaplatz,2.6
+12.02.2020,18.37,Food Items Aldi Sued Woeschbacherstr.29 76327 Pfinztal,13.65
+13.02.2020,10.03,Transport Muelburger Tor direction Europaplatz,2.6
 13.02.2020,18.31,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.32
 13.02.2020,18.15,Deutsche post Tabakshop pfinztalstr. 28 76227 Karlsruhe-Durlach,3.1
 14.02.2020,18.41,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,19.68
@@ -36,11 +36,11 @@ date,time,description,amount
 17.02.2020,18.40,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,3.25
 18.02.2020,18.25,Food Items Aldi Sued Tiengenestr.2 76227 Karlsruhe,1.33
 19.02.2020,18.55,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,22.48
-20.02.2020,19.48,Medicine Apotheke Philipp Heldmann Ettlinger Tor Platz 1 76133 Karlsruhe,18.96
+20.02.2020,19.48,Medicine Apotheke Ettlinger Tor Platz 1 76133 Karlsruhe,18.96
 20.02.2020,19.59,Food Items Rewe Ettlinger Tor Platz 1 76133 Karlsruhe,1.99
 21.02.2020,09.48,Deutsche Post Ag 76229 Karlsruhe,0.8
 21.02.2020,18.31,Aldi Sued Waldstr.14-18 76133 Karlsruhe,16.82
-22.02.2020,13.32,EinzelFahrkarte KVV Zündhütle,2.6
+22.02.2020,13.32,EinzelFahrkarte KVV Zuendhuetle,2.6
 22.02.2020,21.30,DAZN TW13 7BZ United Kingdom,11.99
 24.02.2020,18.08,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
 24.02.2020,18.33,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
@@ -94,7 +94,7 @@ date,time,description,amount
 14.03.2020,12.16,Furniture Bauhaus Kaeppelenstr.2 76131 Karlsruhe-Durlach,8.40
 16.03.2020,8.02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,93
 20.03.2020,17.35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
-20.03.2020,22.10,Unity Media Aachener str. 746-750 50933 Köln,80.63
+20.03.2020,22.10,Unity Media Aachener str. 746-750 50933 Koeln,80.63
 23.03.2020,11.12,Hygiene Items DM Kaisertr.92 76133 Karlsruhe,13.65
 25.03.2020,11.39,Stationary Deutsche Post AG Kaiserstr.217 76133 Karlsruhe,3.09
 23.03.2020,16.14,Hygiene Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.65
@@ -115,21 +115,21 @@ date,time,description,amount
 27.03.2020,11.10,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,2.70
 28.03.2020,14.27,Medicine Hautpost-Apotheke Kaiserstr.156 76133 Karlsruhe,7.55
 28.03.2020,19.50,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruh-Durlach,7.65
-31.03.2020,17.35,Driving Jörg Schwenker Bockstalstr.4 76327 Pfinztal,280.00
-01.04.2020,09.00,Rundfunkbeitrag ARD ZDF Deutschland radio Beitragsservice 50656 Köln,52.50
+31.03.2020,17.35,Driving Joerg Schwenker Bockstalstr.4 76327 Pfinztal,280.00
+01.04.2020,09.00,ARD 50656 Koeln,52.50
 01.04.2020,09.00,Rent Bergwald,680
 01.04.2020,11.30,Kenya Transactions,177.65
 09.04.2020,21.07,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.98
 09.04.2020,20.15,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,2.63
 09.04.2020,09.04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.14
 09.04.2020,19.44,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,7.96
-09.04.2020,19.20,Deutsche Post Rüppurrerstr.1 76137 Karlruhe,1.55
+09.04.2020,19.20,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,1.55
 09.04.2020,16.26,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,10.10
 09.04.2020,16.04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,41.24
 09.04.2020,16.03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,0.49
 09.04.2020,16.01,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.20
 06.04.2020,18.15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.00
-06.04.2020,17.55,Deutsche Post Rüppurrerstr.1 76137 Karlruhe,0.80
+06.04.2020,17.55,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,0.80
 06.04.2020,17.43,Medicine Loewen-Apotheke Kaiserstr.72 76133 Karlruhe,5.00
 06.04.2020,16.39,Hygiene DM Ettlinger-Tor-Platz 1 76133 Karlsruhe,1.25
 06.04.2020,12.17,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,11.37
@@ -182,4 +182,8 @@ date,time,description,amount
 21.04.2020,16.03,Food Items Frische Punkt Kaiserstr.123 76133 Karlsruhe,4.92
 20.04.2020,10.15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,26.05
 21.04.2020,16.01,Hygiene DM Kaiserstr.92 76133 Karlsruhe,5.10
-
+27.04.2020,03.36,TV Mbita,8.43
+24.04.2020,19.15,Food Items Aldi Sued Koenigstr.115 67663 Kaiserslautern,39.73
+24.04.2020,16.45,Diesel Total Station Erlachseeweg 10 76227 Karlsruhe,30
+23.04.2020,08.53,Hygiene DW Kaiserstr.92 76133 Karlsruhe,0.95
+24.04.2020,15.22,Lycamobile Tiengenerstr.2 76227 Karlsruhe,10.00

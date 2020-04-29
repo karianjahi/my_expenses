@@ -187,3 +187,6 @@ date,time,description,amount
 24.04.2020,16.45,Diesel Total Station Erlachseeweg 10 76227 Karlsruhe,30
 23.04.2020,08.53,Hygiene DW Kaiserstr.92 76133 Karlsruhe,0.95
 24.04.2020,15.22,Lycamobile Tiengenerstr.2 76227 Karlsruhe,10.00
+28.04.2020,19.29,Food Items Rewe Raiherwiesenstr.38 76227 Karslruhe-Durlach,9.24
+28.04.2020,19.17,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe-Durlach,13.30
+28.04.2020,18.54,Food Items Aldi Sued Killisfeldstr.46 76227 Karslruhe-Durlach,29.80

@@ -1,5 +1,7 @@
 date/time,description,amount
+2020-Feb-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
 2020-Feb-01 12:40,Kenya transactions,200
+2020-Feb-01 20:00,Telkom arrears,39.99
 2020-Feb-01 20:30,Food items Aldi sued,34.63
 2020-Feb-02 11:45,Rent Bergwald,680
 2020-Feb-03 17:31,Transport KVV,2.6
@@ -52,8 +54,10 @@ date/time,description,amount
 2020-Feb-28 18:25,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,19.61
 2020-Feb-29 20:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,11.51
 2020-Feb-29 20:54,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,25.67
+2020-Mar-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
 2020-Mar-02 08:45,Rent Bergwald,680
 2020-Mar-02 08:45,Utility costs Bergwald,4.33
+2020-Mar-02 09:00,Telkom arrears,39.99
 2020-Mar-02 17:47,Food Items Sindbad Food Adlerstr. 36 76133 Karlsruhe,9.58
 2020-Mar-02 17:54,Food Items Zähringerstr.47 76133 Karlruhe,9.9
 2020-Mar-02 18:00,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,27.99
@@ -121,6 +125,8 @@ date/time,description,amount
 2020-Mar-31 20:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,12.4
 2020-Apr-01 09:00,ARD 50656 Koeln,52.5
 2020-Apr-01 09:00,Rent Bergwald,680
+2020-Apr-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-Apr-01 11:00,Telkom arrears,39.99
 2020-Apr-01 11:30,Kenya Transactions,177.65
 2020-Apr-02 12:00,Sports Club Emmanuel Hohenwettersbach,40
 2020-Apr-02 19:41,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,15
@@ -187,3 +193,13 @@ date/time,description,amount
 2020-Apr-24 16:45,Diesel Total Station Erlachseeweg 10 76227 Karlsruhe,30
 2020-Apr-24 19:15,Food Items Aldi Sued Koenigstr.115 67663 Kaiserslautern,39.73
 2020-Apr-27 03:36,TV Mbita,8.43
+2020-Apr-28 18:54,Food Items Aldi Sued Killisfeldstr.46 76227 Karslruhe-Durlach,29.8
+2020-Apr-28 19:17,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe-Durlach,13.3
+2020-Apr-28 19:29,Food Items Rewe Raiherwiesenstr.38 76227 Karslruhe-Durlach,9.24
+2020-May-01 09:00,Electricity Stadtwerke Karlsruhe,410
+2020-May-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-May-01 10:00,Rent Bergwald,680
+2020-May-01 11:00,Telkom arrears,39
+2020-May-01 17:14,Kenya Transactions,200
+2020-May-02 16:49,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,24.73
+2020-May-02 17:07,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,17.3

@@ -12,7 +12,7 @@ data = data.frame(cbind(time = date_time, data[, 3:ncol(data)]))
 names(data) = c("date/time", names(data)[2:3])
 data = data[order(strptime(data$`date/time`, "%Y-%b-%d %H:%M"), decreasing = FALSE), ]
 
-salary = 2245
+salary = 2150
 write.table(x = data, file = outfilename, sep = ",", quote = FALSE, col.names = TRUE, row.names = FALSE)
 
 # Aggregate by day 

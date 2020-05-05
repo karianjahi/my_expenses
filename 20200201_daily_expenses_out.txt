@@ -203,3 +203,4 @@ date/time,description,amount
 2020-May-01 17:14,Kenya Transactions,200
 2020-May-02 16:49,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,24.73
 2020-May-02 17:07,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,17.3
+2020-May-05 13:23,Lycamobile Credit,12.4

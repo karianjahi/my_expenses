@@ -208,3 +208,4 @@ date,time,description,amount
 05.05.2020,18.43,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,0.80
 05.05.2020,19.25,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,0.29
 05.05.2020,19.11,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,38.30
+07.05.2020,14.56,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,17.75

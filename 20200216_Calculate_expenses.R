@@ -12,7 +12,11 @@ data = data.frame(cbind(time = date_time, data[, 3:ncol(data)]))
 names(data) = c("date/time", names(data)[2:3])
 data = data[order(strptime(data$`date/time`, "%Y-%b-%d %H:%M"), decreasing = FALSE), ]
 
-salary = 2150
+# Get first date and last date 
+seqMon = function(x) seq(x[1], x[2], by = "month")
+salary_months_length = length(seqMon((as.Date(paste0(format((function(x) c(x[1], x[length(x)]))(sort(strptime(data$`date/time`, "%Y-%b-%d %H:%M"))), "%Y-%m"), "-01")) - 1))) + 1
+
+salary = 2245 * salary_months_length
 write.table(x = data, file = outfilename, sep = ",", quote = FALSE, col.names = TRUE, row.names = FALSE)
 
 # Aggregate by day 
@@ -25,7 +29,7 @@ daysum_df = data.frame(date = names(daysum), amount = unlist(daysum));rownames(d
 my_list = NULL
 my_list$salary = salary
 total_expenses = sum(data$amount) ; my_list$total_expenses = total_expenses
-amount_remaining = salary - total_expenses ;my_list$Savings = amount_remaining
+amount_remaining = salary - total_expenses ;my_list$Savings = paste0("After ", salary_months_length, " months of salary, you saved only Eur ", amount_remaining)
 food_table = data[grepl("Food", data$description), ] ; my_list$food_table = food_table
 food_expenses = sum(food_table$amount) ; my_list$food_expenses = food_expenses
 Transport_table = data[grepl("Transport", data$description), ] ; my_list$transport_table = Transport_table
@@ -37,6 +41,7 @@ lean_expenses = sum(lean_table$amount) ; my_list$lean_expenses_rent_and_food = l
 my_list$daily_expenses = daysum_df
 
 # Focus on current month and year
+salary = 2150
 current_month = format(Sys.Date(), "%Y-%b")
 data = data[grepl(current_month, data$`date/time`), ]
 mon_list = NULL

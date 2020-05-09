@@ -209,3 +209,5 @@ date,time,description,amount
 05.05.2020,19.25,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,0.29
 05.05.2020,19.11,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,38.30
 07.05.2020,14.56,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,17.75
+09.05.2020,18.49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
+09.05.2020,18.32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15

@@ -211,3 +211,4 @@ date,time,description,amount
 07.05.2020,14.56,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,17.75
 09.05.2020,18.49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
 09.05.2020,18.32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15
+10.05.2020,19.12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20

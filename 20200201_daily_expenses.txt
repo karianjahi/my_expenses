@@ -212,3 +212,4 @@ date,time,description,amount
 09.05.2020,18.49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
 09.05.2020,18.32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15
 10.05.2020,19.12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20
+12.05.2020,18.08,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.90

@@ -213,3 +213,6 @@ date/time,description,amount
 2020-May-09 18:49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
 2020-May-10 19:12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20
 2020-May-12 18:08,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
+2020-May-12 19:19,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,34.25
+2020-May-13 15:54,Transport KVV,2.6
+2020-May-13 18:32,Driving license fee - Replacement,34.3

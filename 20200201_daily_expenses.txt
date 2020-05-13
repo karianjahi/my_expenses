@@ -213,3 +213,6 @@ date,time,description,amount
 09.05.2020,18.32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15
 10.05.2020,19.12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20
 12.05.2020,18.08,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.90
+13.05.2020,15.54,Transport KVV,2.60
+12.05.2020,19.19,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,34.25
+13.05.2020,18.32,Driving license fee - Replacement,34.30

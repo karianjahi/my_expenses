@@ -219,3 +219,5 @@ date/time,description,amount
 2020-May-15 14:58,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.57
 2020-May-15 15:16,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,21.51
 2020-May-15 18:45,Traffic fines Thomas,10
+2020-May-18 09:20,Kenya Emergency Mum,11.9
+2020-May-18 11:37,Hygiene DW pfinztalstr.46-50,28.35

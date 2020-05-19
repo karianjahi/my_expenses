@@ -221,4 +221,6 @@ date,time,description,amount
 15.05.2020,15.16,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,21.51
 18.05.2020,09.20,Kenya Emergency Mum,11.90
 18.05.2020,11.37,Hygiene DW pfinztalstr.46-50,28.35
-
+18.05.2020,19.33,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe,1.85
+18.05.2020,19.17,Food Items Killisfeldstr.46 76227 Karlsruhe,21.66
+18.05.2020,19.03,Food Items Killisfeldstr.46 76227 Karlsuhe,10.97

@@ -1,0 +1,2 @@
+Date,Milk,Sugared_drink,Bread,daily_jog
+19052020,No,No,No,No

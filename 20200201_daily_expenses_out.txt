@@ -221,3 +221,6 @@ date/time,description,amount
 2020-May-15 18:45,Traffic fines Thomas,10
 2020-May-18 09:20,Kenya Emergency Mum,11.9
 2020-May-18 11:37,Hygiene DW pfinztalstr.46-50,28.35
+2020-May-18 19:03,Food Items Killisfeldstr.46 76227 Karlsuhe,10.97
+2020-May-18 19:17,Food Items Killisfeldstr.46 76227 Karlsruhe,21.66
+2020-May-18 19:33,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe,1.85

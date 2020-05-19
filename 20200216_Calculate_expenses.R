@@ -58,4 +58,27 @@ avoidable_expenses = sum(avoidable_table$amount) ; mon_list$avoidable_expenses =
 lean_table = data[c(grep("Rent", data$description), grep("Food", data$description)), ]
 lean_expenses = sum(lean_table$amount) ; mon_list$lean_expenses_rent_and_food = lean_expenses
 
+# Healthy living
+health_file = "20200519_health_food_record.txt"
+health_data = read.csv(health_file, stringsAsFactors = FALSE)
+
+# Milk
+milk = gsub(" ", "", health_data$Milk)
+health_data$milk_count = ifelse(milk == "No", 0, 1)
+
+# Sugar
+sugar = gsub(" ", "", health_data$Sugared_drink)
+health_data$sugar_count = ifelse(sugar == "No", 0, 1)
+
+# Bread
+bread = gsub(" ", "", health_data$Bread)
+health_data$bread_count = ifelse(bread == "No", 0, 1)
+
+# Jog
+jog = gsub(" ", "", health_data$daily_jog)
+health_data$jog_count = ifelse(jog == "No", 0, 1)
+
+cat(paste0("\n\n\n\n\n\nNo of days = ", nrow(health_data), "   \nmilk intake = ", sum(health_data$milk_count), " days\n", "sugar intake = ", sum(health_data$sugar_count), " days\n", "bread intake = ", sum(health_data$bread_count), " days\n", "jog intake = ", sum(health_data$jog_count), " days\n"))
+
+
 

@@ -1,2 +1,6 @@
-Date,Milk,Sugared_drink,Bread,daily_jog
-19052020,No,No,No,No
+Date,Milk,Sugared_drink,Bread,daily_jog,Weight_before_sleep
+19052020,No,No,No,No,94
+20052020,No,Yes,Yes,No,94
+21052020,No,No,Yes,Yes,94
+22052020,No,No,No,Yes,94
+23052020,Yes,Yes,Yes,Yes,

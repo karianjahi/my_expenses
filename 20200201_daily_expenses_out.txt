@@ -224,3 +224,8 @@ date/time,description,amount
 2020-May-18 19:03,Food Items Killisfeldstr.46 76227 Karlsuhe,10.97
 2020-May-18 19:17,Food Items Killisfeldstr.46 76227 Karlsruhe,21.66
 2020-May-18 19:33,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe,1.85
+2020-May-22 17:30,Deutsche Post Ag 76229 Karlsruhe,2.5
+2020-May-22 18:26,Food Items Sinbad Adlerstr.36 76133 Karlsuhe,27.64
+2020-May-22 18:42,Medicine Kaiserstr.112 76133 Karlsruhe,4.24
+2020-May-22 19:06,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,37.9
+2020-May-23 15:00,KinderSitz Amazon,58.99

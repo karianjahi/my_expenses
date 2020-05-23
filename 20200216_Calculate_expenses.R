@@ -41,7 +41,7 @@ lean_expenses = sum(lean_table$amount) ; my_list$lean_expenses_rent_and_food = l
 my_list$daily_expenses = daysum_df
 
 # Focus on current month and year
-salary = 2150
+salary = 2150 + 300
 current_month = format(Sys.Date(), "%Y-%b")
 data = data[grepl(current_month, data$`date/time`), ]
 mon_list = NULL

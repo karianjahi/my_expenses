@@ -227,5 +227,8 @@ date/time,description,amount
 2020-May-22 17:30,Deutsche Post Ag 76229 Karlsruhe,2.5
 2020-May-22 18:26,Food Items Sinbad Adlerstr.36 76133 Karlsuhe,27.64
 2020-May-22 18:42,Medicine Kaiserstr.112 76133 Karlsruhe,4.24
+2020-May-22 18:43,Medicine Kaiserstr.112 76133 Karlsruhe,8.5
 2020-May-22 19:06,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,37.9
 2020-May-23 15:00,KinderSitz Amazon,58.99
+2020-May-24 22:06,Lycamobile Rewe Kaiserstr.227-229 Karlsruhe 76133,10
+2020-May-24 22:24,Medicine Leopold-Apotheke Sophienstr.53 76133 Karlsruhe,11.35

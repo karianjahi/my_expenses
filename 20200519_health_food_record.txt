@@ -4,3 +4,6 @@ Date,Milk,Sugared_drink,Bread,daily_jog,Weight_before_sleep
 21052020,No,No,Yes,Yes,94
 22052020,No,No,No,Yes,94
 23052020,Yes,Yes,Yes,Yes,93.7
+24052020,No,Yes,Yes,Yes,94.5
+25052020,No,No,Yes,Yes,94.2
+26052020,No,No,Yes,Yes,93.5

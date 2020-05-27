@@ -1,10 +1,12 @@
 date,time,description,amount
 01.02.2020,12.40,Kenya transactions,200
 01.02.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
-01.02.2020,20.30,Food items Aldi sued,34.63
-01.02.2020,20.00,Telkom arrears,39.99
+01.02.2020,20.00,Telkom arrears,40
 02.02.2020,11.45,Rent Bergwald,680
+01.02.2020,00.00,Deutsche Bank damages,6
+01.02.2020,10.00,Entertainment Netflix,10.00
 03.02.2020,17.31,Transport KVV,2.6
+01.02.2020,20.30,Food items Aldi sued,34.63
 03.02.2020,18.26,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.67
 03.02.2020,18.30,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.24
 03.02.2020,19.06,Food Items Asian Store Markgrafenstr.27 Karlsruhe,19.79
@@ -54,12 +56,14 @@ date,time,description,amount
 29.02.2020,20.37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,11.51
 29.02.2020,20.54,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,25.67
 02.03.2020,18.45,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,5.22
-02.03.2020,09.00,Telkom arrears,39.99
+02.03.2020,09.00,Telkom arrears,40
+01.03.2020,00.00,Deutsche Bank damages,6
+02.03.2020,08.45,Rent Bergwald,680
+05.03.2020,10.00,Entertaintment Netflix,10.00
 01.03.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
 02.03.2020,18.00,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,27.99
 02.03.2020,17.47,Food Items Sindbad Food Adlerstr. 36 76133 Karlsruhe,9.58
 02.03.2020,17.54,Food Items Zähringerstr.47 76133 Karlruhe,9.90
-02.03.2020,08.45,Rent Bergwald,680
 02.03.2020,08.45,Utility costs Bergwald,4.33
 03.03.2020,18.09,Furniture Schreibwaren Reeb Marstallstr.6 76227 Karlsruhe-Durlach,4.95
 03.03.2020,17.57,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,13.70
@@ -69,8 +73,6 @@ date,time,description,amount
 04.03.2020,19.24,Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe,24.99
 05.03.2020,18.39,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.32
 04.03.2020,22.26,Tuev Sued Auto Service GmbH,91.75
-05.03.2020,10.00,Entertaintment Netflix,10.00
-05.02.2020,10.00,Entertainment Netflix,10.00
 07.03.2020,09.46,Food Items Aldi Sued Waldstr.14-18 Karlsruhe,23.29
 07.03.2020,09.00,Transport KVV,2.60 
 07.03.2020,10.09,Food Items Markgrafenstr.27 76131 Karlsruhe,31.50
@@ -123,8 +125,10 @@ date,time,description,amount
 01.04.2020,09.00,ARD 50656 Koeln,52.50
 01.04.2020,09.00,Rent Bergwald,680
 01.04.2020,11.30,Kenya Transactions,177.65
-01.04.2020,11.00,Telkom arrears,39.99
+01.04.2020,11.00,Telkom arrears,40
 01.04.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+01.04.2020,00.00,Deutsche Bank damages,6
+05.04.2020,10.00,Entertainment Netflix,10.00
 09.04.2020,21.07,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.98
 09.04.2020,20.15,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,2.63
 09.04.2020,09.04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.14
@@ -149,7 +153,6 @@ date,time,description,amount
 31.03.2020,20.26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,12.40
 31.03.2020,20.09,Food Items Scheck-in Center Marstallstr.18 D-76227 Karlsruhe-Durlach,40.04
 02.04.2020,19.41,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,15.00
-05.04.2020,10.00,Entertainment Netflix,10.00
 06.04.2020,12.00,Residence permit Kaiseralle 8 76133 Karlsruhe,237.50
 02.04.2020,12.00,Sports Club Emmanuel Hohenwettersbach,40.00
 11.04.2020,18.00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,6.07
@@ -197,10 +200,11 @@ date,time,description,amount
 28.04.2020,19.17,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe-Durlach,13.30
 28.04.2020,18.54,Food Items Aldi Sued Killisfeldstr.46 76227 Karslruhe-Durlach,29.80
 01.05.2020,17.14,Kenya Transactions,200
+01.05.2020,00.00,Deutsche Bank damages,6
 01.05.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
 01.05.2020,10.00,Rent Bergwald,680
-01.05.2020,09.00,Electricity Stadtwerke Karlsruhe,410.00
-01.05.2020,11.00,Telkom arrears,39.00
+01.05.2020,09.00,Electricity Stadtwerke Karlsruhe,316.00
+01.05.2020,11.00,Telkom arrears,40.00
 02.05.2020,17.07,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,17.30
 02.05.2020,16.49,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,24.73
 05.05.2020,13.23,Lycamobile Credit,12.40

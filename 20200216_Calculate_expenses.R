@@ -11,6 +11,7 @@ date_time = format(strptime(paste0(data$date, " ", data$time), format = "%d.%m.%
 data = data.frame(cbind(time = date_time, data[, 3:ncol(data)]))
 names(data) = c("date/time", names(data)[2:3])
 data = data[order(strptime(data$`date/time`, "%Y-%b-%d %H:%M"), decreasing = FALSE), ]
+data_untouched = data
 
 # Get first date and last date 
 seqMon = function(x) seq(x[1], x[2], by = "month")
@@ -41,7 +42,7 @@ lean_expenses = sum(lean_table$amount) ; my_list$lean_expenses_rent_and_food = l
 my_list$daily_expenses = daysum_df
 
 # Focus on current month and year
-salary = 2150 + 300
+salary = 2150 + 250
 current_month = format(Sys.Date(), "%Y-%b")
 data = data[grepl(current_month, data$`date/time`), ]
 mon_list = NULL

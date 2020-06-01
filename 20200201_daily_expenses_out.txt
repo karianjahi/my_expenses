@@ -1,243 +1,243 @@
-date/time,description,amount
-2020-Feb-01 00:00,Deutsche Bank damages,6
-2020-Feb-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
-2020-Feb-01 10:00,Entertainment Netflix,10
-2020-Feb-01 12:40,Kenya transactions,200
-2020-Feb-01 20:00,Telkom arrears,40
-2020-Feb-01 20:30,Food items Aldi sued,34.63
+time,desc,amt
+2020-Feb-02 00:00,Deutsche Bank damages,6
+2020-Feb-02 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-Feb-02 10:00,Entertainment Netflix,10
+2020-Feb-02 12:40,Kenya transactions,200
+2020-Feb-02 20:00,Telkom arrears,40
+2020-Feb-02 20:30,Food items Aldi sued,34.63
 2020-Feb-02 11:45,Rent Bergwald,680
-2020-Feb-03 17:31,Transport KVV,2.6
-2020-Feb-03 18:26,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.67
-2020-Feb-03 18:30,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.24
-2020-Feb-03 19:06,Food Items Asian Store Markgrafenstr.27 Karlsruhe,19.79
-2020-Feb-05 17:21,Bicycle Repair Radsport Kaiserstr.11,107
-2020-Feb-05 21:31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,10.84
-2020-Feb-05 21:35,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.28
-2020-Feb-06 18:52,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,13.05
-2020-Feb-06 20:15,Mogogo Eat joint Stephanienstr.2a 76133 Karlsruhe,16.3
-2020-Feb-08 12:22,Transport KVV Karsruhe,2.6
-2020-Feb-08 15:59,Transport KVV Durmeisheim,4.4
-2020-Feb-08 16:37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
-2020-Feb-08 17:15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
-2020-Feb-10 18:36,Food Items Penny Am Storrenacker.1b,6.65
-2020-Feb-10 18:59,Food Items Aldi Sued Tiengenerstr.2,6.24
-2020-Feb-11 09:00,Transport KVV Karlsruhe,2.6
-2020-Feb-11 10:22,Driving license fee steinhaeuserstr.22,8.7
-2020-Feb-11 12:38,Clothing Woolworth Europaplatz,6.56
-2020-Feb-11 15:50,Food Items Penny Scheffel Str.1,15.13
-2020-Feb-11 16:00,Transport KVV Karlsruhe,2.6
-2020-Feb-12 18:37,Food Items Aldi Sued Woeschbacherstr.29 76327 Pfinztal,13.65
-2020-Feb-13 10:03,Transport Muelburger Tor direction Europaplatz,2.6
-2020-Feb-13 18:15,Deutsche post Tabakshop pfinztalstr. 28 76227 Karlsruhe-Durlach,3.1
-2020-Feb-13 18:31,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.32
-2020-Feb-14 18:41,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,19.68
-2020-Feb-14 18:56,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.02
-2020-Feb-14 19:02,Food Items Indian Store Zaehringerstr.47 76133 Karlsruhe,22
-2020-Feb-15 18:50,Food Items Lidl Tivoliplatz 1 76137 Karlsruhe,1.04
-2020-Feb-17 09:10,Furniture Deutsche Bank ATM Badenerstr.8 76227 Karlruhe,150
-2020-Feb-17 18:19,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,14.18
-2020-Feb-17 18:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,3.46
-2020-Feb-17 18:40,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,3.25
-2020-Feb-18 18:25,Food Items Aldi Sued Tiengenestr.2 76227 Karlsruhe,1.33
-2020-Feb-19 18:55,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,22.48
-2020-Feb-20 19:48,Medicine Apotheke Ettlinger Tor Platz 1 76133 Karlsruhe,18.96
-2020-Feb-20 19:59,Food Items Rewe Ettlinger Tor Platz 1 76133 Karlsruhe,1.99
-2020-Feb-21 09:48,Deutsche Post Ag 76229 Karlsruhe,0.8
-2020-Feb-21 18:31,Aldi Sued Waldstr.14-18 76133 Karlsruhe,16.82
-2020-Feb-22 13:32,EinzelFahrkarte KVV Zuendhuetle,2.6
-2020-Feb-22 21:30,DAZN TW13 7BZ United Kingdom,11.99
-2020-Feb-24 18:08,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
-2020-Feb-24 18:33,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
-2020-Feb-24 19:03,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
-2020-Feb-25 09:30,headphones Kaiserstr. 70-74 76133 Karlsruhe,5
-2020-Feb-26 09:44,Transport Mulburger Tor direction Europaplatz,2.6
-2020-Feb-26 18:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,18.04
-2020-Feb-28 18:25,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,19.61
-2020-Feb-29 20:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,11.51
-2020-Feb-29 20:54,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,25.67
-2020-Mar-01 00:00,Deutsche Bank damages,6
-2020-Mar-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
-2020-Mar-02 08:45,Rent Bergwald,680
-2020-Mar-02 08:45,Utility costs Bergwald,4.33
-2020-Mar-02 09:00,Telkom arrears,40
-2020-Mar-02 17:47,Food Items Sindbad Food Adlerstr. 36 76133 Karlsruhe,9.58
-2020-Mar-02 17:54,Food Items Indian Store Zaehringerstr.47 76133 Karlsruhe,9.9
-2020-Mar-02 18:00,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,27.99
-2020-Mar-02 18:45,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,5.22
+2020-Feb-02 17:31,Transport KVV,2.6
+2020-Feb-02 18:26,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.67
+2020-Feb-02 18:30,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.24
+2020-Feb-02 19:06,Food Items Asian Store Markgrafenstr.27 Karlsruhe,19.79
+2020-Feb-02 17:21,Bicycle Repair Radsport Kaiserstr.11,107
+2020-Feb-02 21:31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,10.84
+2020-Feb-02 21:35,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.28
+2020-Feb-02 18:52,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,13.05
+2020-Feb-02 20:15,Mogogo Eat joint Stephanienstr.2a 76133 Karlsruhe,16.3
+2020-Feb-02 12:22,Transport KVV Karsruhe,2.6
+2020-Feb-02 15:59,Transport KVV Durmeisheim,4.4
+2020-Feb-02 16:37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
+2020-Feb-02 17:15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
+2020-Feb-02 18:36,Food Items Penny Am Storrenacker.1b,6.65
+2020-Feb-02 18:59,Food Items Aldi Sued Tiengenerstr.2,6.24
+2020-Feb-02 09:00,Transport KVV Karlsruhe,2.6
+2020-Feb-02 10:22,Driving license fee steinhaeuserstr.22,8.7
+2020-Feb-02 12:38,Clothing Woolworth Europaplatz,6.56
+2020-Feb-02 15:50,Food Items Penny Scheffel Str.1,15.13
+2020-Feb-02 16:00,Transport KVV Karlsruhe,2.6
+2020-Feb-02 18:37,Food Items Aldi Sued Woeschbacherstr.29 76327 Pfinztal,13.65
+2020-Feb-02 10:03,Transport Muelburger Tor direction Europaplatz,2.6
+2020-Feb-02 18:15,Deutsche post Tabakshop pfinztalstr. 28 76227 Karlsruhe-Durlach,3.1
+2020-Feb-02 18:31,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.32
+2020-Feb-02 18:41,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,19.68
+2020-Feb-02 18:56,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.02
+2020-Feb-02 19:02,Food Items Indian Store Zaehringerstr.47 76133 Karlsruhe,22
+2020-Feb-02 18:50,Food Items Lidl Tivoliplatz 1 76137 Karlsruhe,1.04
+2020-Feb-02 09:10,Furniture Deutsche Bank ATM Badenerstr.8 76227 Karlruhe,150
+2020-Feb-02 18:19,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,14.18
+2020-Feb-02 18:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,3.46
+2020-Feb-02 18:40,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,3.25
+2020-Feb-02 18:25,Food Items Aldi Sued Tiengenestr.2 76227 Karlsruhe,1.33
+2020-Feb-02 18:55,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,22.48
+2020-Feb-02 19:48,Medicine Apotheke Ettlinger Tor Platz 1 76133 Karlsruhe,18.96
+2020-Feb-02 19:59,Food Items Rewe Ettlinger Tor Platz 1 76133 Karlsruhe,1.99
+2020-Feb-02 09:48,Deutsche Post Ag 76229 Karlsruhe,0.8
+2020-Feb-02 18:31,Aldi Sued Waldstr.14-18 76133 Karlsruhe,16.82
+2020-Feb-02 13:32,EinzelFahrkarte KVV Zuendhuetle,2.6
+2020-Feb-02 21:30,DAZN TW13 7BZ United Kingdom,11.99
+2020-Feb-02 18:08,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
+2020-Feb-02 18:33,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
+2020-Feb-02 19:03,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
+2020-Feb-02 09:30,headphones Kaiserstr. 70-74 76133 Karlsruhe,5
+2020-Feb-02 09:44,Transport Mulburger Tor direction Europaplatz,2.6
+2020-Feb-02 18:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,18.04
+2020-Feb-02 18:25,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,19.61
+2020-Feb-02 20:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,11.51
+2020-Feb-02 20:54,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,25.67
+2020-Mar-03 00:00,Deutsche Bank damages,6
+2020-Mar-03 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-Mar-03 08:45,Rent Bergwald,680
+2020-Mar-03 08:45,Utility costs Bergwald,4.33
+2020-Mar-03 09:00,Telkom arrears,40
+2020-Mar-03 17:47,Food Items Sindbad Food Adlerstr. 36 76133 Karlsruhe,9.58
+2020-Mar-03 17:54,Food Items Indian Store Zaehringerstr.47 76133 Karlsruhe,9.9
+2020-Mar-03 18:00,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,27.99
+2020-Mar-03 18:45,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,5.22
 2020-Mar-03 14:51,Kenya Transactions,141.5
 2020-Mar-03 17:57,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,13.7
 2020-Mar-03 18:09,Furniture Schreibwaren Reeb Marstallstr.6 76227 Karlsruhe-Durlach,4.95
-2020-Mar-04 16:06,Transport KVV,2.6
-2020-Mar-04 19:24,Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe,24.99
-2020-Mar-04 19:37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,4.02
-2020-Mar-04 22:26,Tuev Sued Auto Service GmbH,91.75
-2020-Mar-05 10:00,Entertaintment Netflix,10
-2020-Mar-05 18:39,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.32
-2020-Mar-06 18:44,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,25.42
-2020-Mar-07 09:00,Transport KVV,2.6
-2020-Mar-07 09:21,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,6.3
-2020-Mar-07 09:46,Food Items Aldi Sued Waldstr.14-18 Karlsruhe,23.29
-2020-Mar-07 10:09,Food Items Markgrafenstr.27 76131 Karlsruhe,31.5
-2020-Mar-07 11:03,Food Items Sindbad Markt Adlerstr.36 76133 Karlsruhe,14.94
-2020-Mar-07 16:00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,22
-2020-Mar-07 16:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.93
-2020-Mar-07 19:23,Lycamobile Airtime,10
-2020-Mar-07 20:07,Transport KVV,2.6
-2020-Mar-08 10:00,Transport KVV,5.2
-2020-Mar-09 19:00,Transport KVV,2.6
-2020-Mar-09 19:57,Transport KVV,2.6
-2020-Mar-11 16:36,Mobil VoiP,12.42
-2020-Mar-12 17:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,17.5
-2020-Mar-12 17:37,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,7.83
-2020-Mar-13 10:39,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,2.75
-2020-Mar-13 19:52,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,5.91
-2020-Mar-13 20:24,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,9.35
-2020-Mar-13 20:37,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.29
-2020-Mar-14 11:22,Transport KVV,6.7
-2020-Mar-14 12:16,Furniture Bauhaus Kaeppelenstr.2 76131 Karlsruhe-Durlach,8.4
-2020-Mar-14 13:05,Food items Durlacher Allee 11 76137 Karlsruhe,11.98
-2020-Mar-14 14:05,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe,64.98
-2020-Mar-14 14:10,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe,1
-2020-Mar-16 08:02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,93
-2020-Mar-20 17:35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
-2020-Mar-20 22:10,Unity Media Aachener str. 746-750 50933 Koeln,80.63
-2020-Mar-21 17:20,Hygiene Items DM Karlstr.36 76133 Karlsruhe,22.9
-2020-Mar-23 11:12,Hygiene Items DM Kaisertr.92 76133 Karlsruhe,13.65
-2020-Mar-23 16:14,Hygiene Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.65
-2020-Mar-23 16:29,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,-1.06
-2020-Mar-23 16:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,0.75
-2020-Mar-25 10:08,Hygiene Items DM Karlstr.106 76137 Karlsruhe,7.9
-2020-Mar-25 10:37,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,3.2
-2020-Mar-25 11:39,Stationary Deutsche Post AG Kaiserstr.217 76133 Karlsruhe,3.09
-2020-Mar-25 12:00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,24.87
-2020-Mar-27 11:10,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,2.7
-2020-Mar-27 11:25,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,14.91
-2020-Mar-27 11:46,Food Items Markgrafenstr.27 76131 Karlsruhe,14.65
-2020-Mar-27 12:00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.01
-2020-Mar-28 14:27,Medicine Hautpost-Apotheke Kaiserstr.156 76133 Karlsruhe,7.55
-2020-Mar-28 19:41,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,17.72
-2020-Mar-28 19:50,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruh-Durlach,7.65
-2020-Mar-28 20:08,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,7.48
-2020-Mar-28 20:30,Deutsche Post Kaiserstr.217 76133 Karlsruhe,0.8
-2020-Mar-30 17:12,Hygiene Items DM Prinz-Wilhelm-str.8 76646 Bruchsal,3.7
-2020-Mar-30 17:37,Food Items Aldi Sued Prinz-Wilhelm-str.8 76646 Bruchsal,6.6
-2020-Mar-31 17:35,Driving Joerg Schwenker Bockstalstr.4 76327 Pfinztal,280
-2020-Mar-31 19:45,Hygiene DM Pfinztalstr.46-50 76227 Karlsruhe,11.1
-2020-Mar-31 20:09,Food Items Scheck-in Center Marstallstr.18 D-76227 Karlsruhe-Durlach,40.04
-2020-Mar-31 20:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,12.4
-2020-Apr-01 00:00,Deutsche Bank damages,6
-2020-Apr-01 09:00,ARD 50656 Koeln,52.5
-2020-Apr-01 09:00,Rent Bergwald,680
-2020-Apr-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
-2020-Apr-01 11:00,Telkom arrears,40
-2020-Apr-01 11:30,Kenya Transactions,177.65
-2020-Apr-02 12:00,Sports Club Emmanuel Hohenwettersbach,40
-2020-Apr-02 19:41,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,15
-2020-Apr-02 20:10,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,25.98
-2020-Apr-02 20:31,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,6.21
+2020-Mar-03 16:06,Transport KVV,2.6
+2020-Mar-03 19:24,Computer device Saturn Elektro Kaiserstr.146-148 76133 Karlsruhe,24.99
+2020-Mar-03 19:37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,4.02
+2020-Mar-03 22:26,Tuev Sued Auto Service GmbH,91.75
+2020-Mar-03 10:00,Entertaintment Netflix,10
+2020-Mar-03 18:39,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.32
+2020-Mar-03 18:44,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,25.42
+2020-Mar-03 09:00,Transport KVV,2.6
+2020-Mar-03 09:21,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,6.3
+2020-Mar-03 09:46,Food Items Aldi Sued Waldstr.14-18 Karlsruhe,23.29
+2020-Mar-03 10:09,Food Items Markgrafenstr.27 76131 Karlsruhe,31.5
+2020-Mar-03 11:03,Food Items Sindbad Markt Adlerstr.36 76133 Karlsruhe,14.94
+2020-Mar-03 16:00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,22
+2020-Mar-03 16:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.93
+2020-Mar-03 19:23,Lycamobile Airtime,10
+2020-Mar-03 20:07,Transport KVV,2.6
+2020-Mar-03 10:00,Transport KVV,5.2
+2020-Mar-03 19:00,Transport KVV,2.6
+2020-Mar-03 19:57,Transport KVV,2.6
+2020-Mar-03 16:36,Mobil VoiP,12.42
+2020-Mar-03 17:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,17.5
+2020-Mar-03 17:37,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,7.83
+2020-Mar-03 10:39,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe 76133,2.75
+2020-Mar-03 19:52,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,5.91
+2020-Mar-03 20:24,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,9.35
+2020-Mar-03 20:37,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.29
+2020-Mar-03 11:22,Transport KVV,6.7
+2020-Mar-03 12:16,Furniture Bauhaus Kaeppelenstr.2 76131 Karlsruhe-Durlach,8.4
+2020-Mar-03 13:05,Food items Durlacher Allee 11 76137 Karlsruhe,11.98
+2020-Mar-03 14:05,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe,64.98
+2020-Mar-03 14:10,Furniture BabyOne Durlacher Allee 111 76137 Karlsruhe,1
+2020-Mar-03 08:02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,93
+2020-Mar-03 17:35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
+2020-Mar-03 22:10,Unity Media Aachener str. 746-750 50933 Koeln,80.63
+2020-Mar-03 17:20,Hygiene Items DM Karlstr.36 76133 Karlsruhe,22.9
+2020-Mar-03 11:12,Hygiene Items DM Kaisertr.92 76133 Karlsruhe,13.65
+2020-Mar-03 16:14,Hygiene Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.65
+2020-Mar-03 16:29,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,-1.06
+2020-Mar-03 16:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,0.75
+2020-Mar-03 10:08,Hygiene Items DM Karlstr.106 76137 Karlsruhe,7.9
+2020-Mar-03 10:37,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,3.2
+2020-Mar-03 11:39,Stationary Deutsche Post AG Kaiserstr.217 76133 Karlsruhe,3.09
+2020-Mar-03 12:00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,24.87
+2020-Mar-03 11:10,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,2.7
+2020-Mar-03 11:25,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,14.91
+2020-Mar-03 11:46,Food Items Markgrafenstr.27 76131 Karlsruhe,14.65
+2020-Mar-03 12:00,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6.01
+2020-Mar-03 14:27,Medicine Hautpost-Apotheke Kaiserstr.156 76133 Karlsruhe,7.55
+2020-Mar-03 19:41,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,17.72
+2020-Mar-03 19:50,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruh-Durlach,7.65
+2020-Mar-03 20:08,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,7.48
+2020-Mar-03 20:30,Deutsche Post Kaiserstr.217 76133 Karlsruhe,0.8
+2020-Mar-03 17:12,Hygiene Items DM Prinz-Wilhelm-str.8 76646 Bruchsal,3.7
+2020-Mar-03 17:37,Food Items Aldi Sued Prinz-Wilhelm-str.8 76646 Bruchsal,6.6
+2020-Mar-03 17:35,Driving Joerg Schwenker Bockstalstr.4 76327 Pfinztal,280
+2020-Mar-03 19:45,Hygiene DM Pfinztalstr.46-50 76227 Karlsruhe,11.1
+2020-Mar-03 20:09,Food Items Scheck-in Center Marstallstr.18 D-76227 Karlsruhe-Durlach,40.04
+2020-Mar-03 20:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,12.4
+2020-Apr-04 00:00,Deutsche Bank damages,6
+2020-Apr-04 09:00,ARD 50656 Koeln,52.5
+2020-Apr-04 09:00,Rent Bergwald,680
+2020-Apr-04 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-Apr-04 11:00,Telkom arrears,40
+2020-Apr-04 11:30,Kenya Transactions,177.65
+2020-Apr-04 12:00,Sports Club Emmanuel Hohenwettersbach,40
+2020-Apr-04 19:41,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,15
+2020-Apr-04 20:10,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,25.98
+2020-Apr-04 20:31,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,6.21
 2020-Apr-04 18:36,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,5.9
 2020-Apr-04 18:44,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.73
 2020-Apr-04 19:10,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,20.64
-2020-Apr-05 10:00,Entertainment Netflix,10
-2020-Apr-06 12:00,Residence permit Kaiseralle 8 76133 Karlsruhe,237.5
-2020-Apr-06 12:13,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,14.28
-2020-Apr-06 12:17,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,11.37
-2020-Apr-06 16:39,Hygiene DM Ettlinger-Tor-Platz 1 76133 Karlsruhe,1.25
-2020-Apr-06 17:43,Medicine Loewen-Apotheke Kaiserstr.72 76133 Karlruhe,5
-2020-Apr-06 17:55,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,0.8
-2020-Apr-06 18:15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6
-2020-Apr-09 09:04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.14
-2020-Apr-09 16:01,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.2
-2020-Apr-09 16:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,0.49
-2020-Apr-09 16:04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,41.24
-2020-Apr-09 16:26,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,10.1
-2020-Apr-09 19:20,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,1.55
-2020-Apr-09 19:44,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,7.96
-2020-Apr-09 20:15,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,2.63
-2020-Apr-09 21:07,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.98
-2020-Apr-11 18:00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,6.07
-2020-Apr-11 18:10,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,3.5
-2020-Apr-11 18:23,Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3.18
-2020-Apr-11 18:43,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,1.56
-2020-Apr-11 18:45,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,2.58
-2020-Apr-13 15:15,Dimmable bulbs Amazon,119.98
-2020-Apr-13 15:15,Phone Holder Amazon,6.99
-2020-Apr-14 16:15,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,28.26
-2020-Apr-14 16:18,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,11.08
-2020-Apr-14 16:35,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,14.31
-2020-Apr-14 16:53,Hygiene DM Kaiserstr.92 76133 Karlsruhe,16.85
-2020-Apr-14 17:15,Food Items Lidl Tivoliplatz 1 76137 Karsruhe,1.99
-2020-Apr-14 23:00,Furniture DanDiBo-Ambiente Ziegenberg.7-9 29649 Wietzendorf,18.99
-2020-Apr-16 17:17,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,16.49
-2020-Apr-16 17:35,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,2.55
-2020-Apr-16 17:46,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,8.65
-2020-Apr-16 17:59,Medicine Terrasen-Apotheke Raiherwiesenstr.19 76227 Karlsruhe,8.85
-2020-Apr-16 23:50,Phone Charger Amazon,7.99
-2020-Apr-17 16:34,Lycamobile credit Online pay,10
-2020-Apr-18 17:37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,15.55
-2020-Apr-18 18:07,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.74
-2020-Apr-18 18:20,Hygiene DM Kaiserstr.92 76133 Karlsruhe,4.25
-2020-Apr-18 18:37,Food Items Sinbad Food Adlerstr.36 76133 Karslruhe,7.73
-2020-Apr-18 18:50,Food Items Asia Store Markgrafenstr.27 76133 Karlsruhe,3.18
-2020-Apr-19 07:30,Cooking Pan Amazon,19.99
-2020-Apr-19 15:30,Booklet Certificate Album Amazon,25.75
-2020-Apr-20 08:34,Transport KVV,2.6
-2020-Apr-20 09:28,Food Items Penny - Markt Scheffelstr.1 76135 Karlsruhe,6.44
-2020-Apr-20 10:15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,26.05
-2020-Apr-21 16:01,Hygiene DM Kaiserstr.92 76133 Karlsruhe,5.1
-2020-Apr-21 16:03,Food Items Frische Punkt Kaiserstr.123 76133 Karlsruhe,4.92
-2020-Apr-21 17:30,Dimmable Bulbs Installation Fiduciastr 10D 76227 Karlsruhe-Durlach,50
-2020-Apr-21 17:31,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.99
-2020-Apr-21 22:21,Panties Amazon,12.72
-2020-Apr-21 22:44,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
-2020-Apr-22 09:00,Electricity Stadtwerke Karlsruhe,632
-2020-Apr-23 08:53,Hygiene DW Kaiserstr.92 76133 Karlsruhe,0.95
-2020-Apr-24 15:22,Lycamobile Tiengenerstr.2 76227 Karlsruhe,10
-2020-Apr-24 16:45,Diesel Total Station Erlachseeweg 10 76227 Karlsruhe,30
-2020-Apr-24 19:15,Food Items Aldi Sued Koenigstr.115 67663 Kaiserslautern,39.73
-2020-Apr-27 03:36,TV Mbita,8.43
-2020-Apr-28 18:54,Food Items Aldi Sued Killisfeldstr.46 76227 Karslruhe-Durlach,29.8
-2020-Apr-28 19:17,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe-Durlach,13.3
-2020-Apr-28 19:29,Food Items Rewe Raiherwiesenstr.38 76227 Karslruhe-Durlach,9.24
-2020-May-01 00:00,Deutsche Bank damages,6
-2020-May-01 09:00,Electricity Stadtwerke Karlsruhe,316
-2020-May-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
-2020-May-01 10:00,Rent Bergwald,680
-2020-May-01 11:00,Telkom arrears,40
-2020-May-01 17:14,Kenya Transactions,200
-2020-May-02 16:49,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,24.73
-2020-May-02 17:07,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,17.3
+2020-Apr-04 10:00,Entertainment Netflix,10
+2020-Apr-04 12:00,Residence permit Kaiseralle 8 76133 Karlsruhe,237.5
+2020-Apr-04 12:13,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,14.28
+2020-Apr-04 12:17,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,11.37
+2020-Apr-04 16:39,Hygiene DM Ettlinger-Tor-Platz 1 76133 Karlsruhe,1.25
+2020-Apr-04 17:43,Medicine Loewen-Apotheke Kaiserstr.72 76133 Karlruhe,5
+2020-Apr-04 17:55,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,0.8
+2020-Apr-04 18:15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,6
+2020-Apr-04 09:04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.14
+2020-Apr-04 16:01,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.2
+2020-Apr-04 16:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,0.49
+2020-Apr-04 16:04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,41.24
+2020-Apr-04 16:26,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,10.1
+2020-Apr-04 19:20,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,1.55
+2020-Apr-04 19:44,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,7.96
+2020-Apr-04 20:15,Food Items Rewe Kaiserstr.227-229 76133 Karlsruhe,2.63
+2020-Apr-04 21:07,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.98
+2020-Apr-04 18:00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,6.07
+2020-Apr-04 18:10,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,3.5
+2020-Apr-04 18:23,Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3.18
+2020-Apr-04 18:43,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,1.56
+2020-Apr-04 18:45,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,2.58
+2020-Apr-04 15:15,Dimmable bulbs Amazon,119.98
+2020-Apr-04 15:15,Phone Holder Amazon,6.99
+2020-Apr-04 16:15,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,28.26
+2020-Apr-04 16:18,Food Items Sinbad Food Adlerstr.36 76133 Karlsruhe,11.08
+2020-Apr-04 16:35,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,14.31
+2020-Apr-04 16:53,Hygiene DM Kaiserstr.92 76133 Karlsruhe,16.85
+2020-Apr-04 17:15,Food Items Lidl Tivoliplatz 1 76137 Karsruhe,1.99
+2020-Apr-04 23:00,Furniture DanDiBo-Ambiente Ziegenberg.7-9 29649 Wietzendorf,18.99
+2020-Apr-04 17:17,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,16.49
+2020-Apr-04 17:35,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,2.55
+2020-Apr-04 17:46,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,8.65
+2020-Apr-04 17:59,Medicine Terrasen-Apotheke Raiherwiesenstr.19 76227 Karlsruhe,8.85
+2020-Apr-04 23:50,Phone Charger Amazon,7.99
+2020-Apr-04 16:34,Lycamobile credit Online pay,10
+2020-Apr-04 17:37,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,15.55
+2020-Apr-04 18:07,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,12.74
+2020-Apr-04 18:20,Hygiene DM Kaiserstr.92 76133 Karlsruhe,4.25
+2020-Apr-04 18:37,Food Items Sinbad Food Adlerstr.36 76133 Karslruhe,7.73
+2020-Apr-04 18:50,Food Items Asia Store Markgrafenstr.27 76133 Karlsruhe,3.18
+2020-Apr-04 07:30,Cooking Pan Amazon,19.99
+2020-Apr-04 15:30,Booklet Certificate Album Amazon,25.75
+2020-Apr-04 08:34,Transport KVV,2.6
+2020-Apr-04 09:28,Food Items Penny - Markt Scheffelstr.1 76135 Karlsruhe,6.44
+2020-Apr-04 10:15,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,26.05
+2020-Apr-04 16:01,Hygiene DM Kaiserstr.92 76133 Karlsruhe,5.1
+2020-Apr-04 16:03,Food Items Frische Punkt Kaiserstr.123 76133 Karlsruhe,4.92
+2020-Apr-04 17:30,Dimmable Bulbs Installation Fiduciastr 10D 76227 Karlsruhe-Durlach,50
+2020-Apr-04 17:31,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,1.99
+2020-Apr-04 22:21,Panties Amazon,12.72
+2020-Apr-04 22:44,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
+2020-Apr-04 09:00,Electricity Stadtwerke Karlsruhe,632
+2020-Apr-04 08:53,Hygiene DW Kaiserstr.92 76133 Karlsruhe,0.95
+2020-Apr-04 15:22,Lycamobile Tiengenerstr.2 76227 Karlsruhe,10
+2020-Apr-04 16:45,Diesel Total Station Erlachseeweg 10 76227 Karlsruhe,30
+2020-Apr-04 19:15,Food Items Aldi Sued Koenigstr.115 67663 Kaiserslautern,39.73
+2020-Apr-04 03:36,TV Mbita,8.43
+2020-Apr-04 18:54,Food Items Aldi Sued Killisfeldstr.46 76227 Karslruhe-Durlach,29.8
+2020-Apr-04 19:17,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe-Durlach,13.3
+2020-Apr-04 19:29,Food Items Rewe Raiherwiesenstr.38 76227 Karslruhe-Durlach,9.24
+2020-May-05 00:00,Deutsche Bank damages,6
+2020-May-05 09:00,Electricity Stadtwerke Karlsruhe,316
+2020-May-05 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-May-05 10:00,Rent Bergwald,680
+2020-May-05 11:00,Telkom arrears,40
+2020-May-05 17:14,Kenya Transactions,200
+2020-May-05 16:49,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,24.73
+2020-May-05 17:07,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe-Durlach,17.3
 2020-May-05 13:23,Lycamobile Credit,12.4
 2020-May-05 18:09,Transport KVV,2.6
 2020-May-05 18:43,Deutsche Post Rueppurrerstr.1 76137 Karlruhe,0.8
 2020-May-05 19:11,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,38.3
 2020-May-05 19:25,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,0.29
-2020-May-07 14:56,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,17.75
-2020-May-09 18:32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15
-2020-May-09 18:49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
-2020-May-10 19:12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20
-2020-May-12 18:08,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
-2020-May-12 19:19,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,34.25
-2020-May-13 15:54,Transport KVV,2.6
-2020-May-13 18:32,Driving license fee - Replacement,34.3
-2020-May-15 14:58,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.57
-2020-May-15 15:16,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,21.51
-2020-May-15 18:45,Traffic fines Thomas,10
-2020-May-18 09:20,Kenya Emergency Mum,11.9
-2020-May-18 11:37,Hygiene DW pfinztalstr.46-50,28.35
-2020-May-18 19:03,Food Items Killisfeldstr.46 76227 Karlsuhe,10.97
-2020-May-18 19:17,Food Items Killisfeldstr.46 76227 Karlsruhe,21.66
-2020-May-18 19:33,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe,1.85
-2020-May-22 17:30,Deutsche Post Ag 76229 Karlsruhe,2.5
-2020-May-22 18:26,Food Items Sinbad Adlerstr.36 76133 Karlsuhe,27.64
-2020-May-22 18:42,Medicine Kaiserstr.112 76133 Karlsruhe,4.24
-2020-May-22 18:43,Medicine Kaiserstr.112 76133 Karlsruhe,8.5
-2020-May-22 19:06,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,37.9
-2020-May-23 15:00,KinderSitz Amazon,58.99
-2020-May-24 22:06,Lycamobile Rewe Kaiserstr.227-229 Karlsruhe 76133,10
-2020-May-24 22:24,Medicine Leopold-Apotheke Sophienstr.53 76133 Karlsruhe,11.35
-2020-May-27 13:34,Transport KVV,2.6
-2020-May-27 16:54,Hygiene DM Kaiserstr.92 76133 Karlsruhe,2.45
-2020-May-27 16:59,Food Items Indian Store Zaehringerstr.47 76133 Karlsruhe,18.5
-2020-May-27 17:29,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,28.33
-2020-May-27 18:08,Food Items Edeka Fritz Erler Str. 1-3 76133 Karlsruhe,6.06
+2020-May-05 14:56,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,17.75
+2020-May-05 18:32,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,37.15
+2020-May-05 18:49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.48
+2020-May-05 19:12,Hygiene Items Zsuzsanna Balatoni 75447 Sternenfels,20
+2020-May-05 18:08,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
+2020-May-05 19:19,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,34.25
+2020-May-05 15:54,Transport KVV,2.6
+2020-May-05 18:32,Driving license fee - Replacement,34.3
+2020-May-05 14:58,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,18.57
+2020-May-05 15:16,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,21.51
+2020-May-05 18:45,Traffic fines Thomas,10
+2020-May-05 09:20,Kenya Emergency Mum,11.9
+2020-May-05 11:37,Hygiene DW pfinztalstr.46-50,28.35
+2020-May-05 19:03,Food Items Killisfeldstr.46 76227 Karlsuhe,10.97
+2020-May-05 19:17,Food Items Killisfeldstr.46 76227 Karlsruhe,21.66
+2020-May-05 19:33,Hygiene DW Raiherwiesenstr.36 76227 Karlsruhe,1.85
+2020-May-05 17:30,Deutsche Post Ag 76229 Karlsruhe,2.5
+2020-May-05 18:26,Food Items Sinbad Adlerstr.36 76133 Karlsuhe,27.64
+2020-May-05 18:42,Medicine Kaiserstr.112 76133 Karlsruhe,4.24
+2020-May-05 18:43,Medicine Kaiserstr.112 76133 Karlsruhe,8.5
+2020-May-05 19:06,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,37.9
+2020-May-05 15:00,KinderSitz Amazon,58.99
+2020-May-05 22:06,Lycamobile Rewe Kaiserstr.227-229 Karlsruhe 76133,10
+2020-May-05 22:24,Medicine Leopold-Apotheke Sophienstr.53 76133 Karlsruhe,11.35
+2020-May-05 13:34,Transport KVV,2.6
+2020-May-05 16:54,Hygiene DM Kaiserstr.92 76133 Karlsruhe,2.45
+2020-May-05 17:29,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,28.33
+2020-May-05 16:34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,26.85
+2020-May-05 16:45,Hygiene DM Raiherwiesenstr.36 76227 Karlruhe,4.9

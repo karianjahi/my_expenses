@@ -240,4 +240,11 @@ time,desc,amt
 2020-May-05 16:54,Hygiene DM Kaiserstr.92 76133 Karlsruhe,2.45
 2020-May-05 17:29,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,28.33
 2020-May-05 16:34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,26.85
-2020-May-05 16:45,Hygiene DM Raiherwiesenstr.36 76227 Karlruhe,4.9
+2020-May-05 16:45,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,4.9
+2020-Jun-06 08:00,Netflix,10
+2020-Jun-06 09:00,Telkom Arrears,40
+2020-Jun-06 10:00,Electricity Stadtwerke Karlsruhe,316
+2020-Jun-06 10:00,Unity Media,21.5
+2020-Jun-06 11:00,Deutsche Bank damages,6
+2020-Jun-06 12:00,Rent,680
+2020-Jun-06 15:24,Kenya Transactions,230

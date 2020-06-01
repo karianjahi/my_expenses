@@ -1,11 +1,11 @@
-cat(paste0("\n\nRun the script as Rscript 20200216_expenses_function.R mmm yyyy nnnn \nwhere mmm is month abbreviation, yyyy is year in full and nnnn is salary in 4 digits\nE.g Rscript 20200216_expenses_function.R Sep 2015 3400\n\n"))
+cat(paste0("\n\n\n\n----------------------------------------------------------------------"))
+cat(paste0("\nRun the script as Rscript 20200216_expenses_function.R mmm yyyy nnnn \nwhere mmm is month abbreviation and yyyy is year in full\nE.g Rscript 20200216_expenses_function.R Sep 2015\n"))
+cat(paste0("----------------------------------------------------------------------\n\n\n"))
 
 inputs = commandArgs(trailingOnly = TRUE)
 
 SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
                            output_file = "20200201_daily_expenses_out.txt",
-                           income = 2150,  # Income for this month
-                           av_salary = 2245,
                            year_and_month = 202005,
                            total_monthly_expenses = TRUE, 
                            total_expenses = TRUE){
@@ -58,14 +58,23 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     month_table = final_table[grepl(as.character(year_and_month), year_month_from_table), ]
     
     # What is the month 
-    mon = unique(format(month_table$time, "%b"))
+    mon = unique(format(month_table$time, "%B"))
     year = unique(format(month_table$time, "%Y"))
     
     # monthly_expenses 
     monthly_expenses = sum(month_table$amt)
     
-    # Monthly savings 
-    monthly_savings = income - monthly_expenses
+    # income mons 
+    income_mons = format(as.Date(income_dat$V1, "%Y%b%d"), "%m")
+    
+    # Which mon is requested 
+    mon_req = substr(year_and_month, 5, 6)
+    
+    # Income for month requested
+    income4mon_requested = income_dat[which(income_mons == mon_req), 2]
+    
+    # Monthly savings
+    monthly_savings = income4mon_requested - monthly_expenses
     
     # Months paid 
     months_paid = unique(format(final_table$time, "%Y-%m"))
@@ -83,10 +92,10 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     total_expenses = sum(final_table$amt)
     
     #cat(paste0("\nAverage Total Income so far = Eur ", format(total_income, big.mark = ","), "\n"))
-    cat(paste0("\nAverage Total Expenses so far = Eur ", format(total_expenses, big.mark = ","), "\n"))
-    #cat(paste0("\nMonthly income for the month of ", mon, ", ",  year, " = Eur ", format(income, big.mark = ","), "\n"))
-    cat(paste0("\nMonthly expenses for the month of ", mon, ", ",  year, " = Eur ", format(monthly_expenses, big.mark = ","), "\n"))
-    cat(paste0("\nMonthly savings for the month of ", mon, ", ",  year, " = Eur ", format(monthly_savings, big.mark = ","), "\n"))
+    cat(paste0("\nAverage Total Expenses since 1st February 2020 = Eur ", format(total_expenses, big.mark = ","), "\n"))
+    cat(paste0("\nMonthly income for the month of ", mon, " ",  year, " = Eur ", format(income4mon_requested, big.mark = ","), "\n"))
+    cat(paste0("\nMonthly expenses for the month of ", mon, " ",  year, " = Eur ", format(monthly_expenses, big.mark = ","), "\n"))
+    cat(paste0("\nMonthly savings for the month of ", mon, " ",  year, " = Eur ", format(monthly_savings, big.mark = ","), "\n"))
     cat(paste0("\nTotal Savings for the last ", nmon, " months = Eur ", format(total_savings, big.mark = ","), "\n"))
     
     # Save output file 
@@ -97,14 +106,81 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
   
   
 }
-
-
-if(length(inputs) > 0) {
-  year_and_month = as.numeric(format(as.Date(paste0(inputs[1], inputs[2], "01"), format = "%b%Y%d"), "%Y%m"))
-  income = as.numeric(inputs[3])
-  SavingsExpenses(year_and_month = year_and_month, income = income)
-  } else {
-    SavingsExpenses()
+# Some functions to handle the month and year
+yearnum = function(year){
+  out = tryCatch(
+    {
+      as.numeric(year)  
+    },
+    error = function(cond){
+      return("error")
+    },
+    warning = function(cond){
+      return("warning")
     }
+    
+  )
+  return(out)
+}
+
+monfun = function(month){
+  
+  out = tryCatch(
+    {
+      as.Date(paste0("2020", month, "01"), "%Y%b%d")
+    },
+    warning = function(cond){
+      return("warning")
+    }
+  )
+  return(out)
+}
 
 
+if(length(inputs) != 2) {
+  cat(paste0("==========================================================================================\n"))
+  cat(paste0("No of inputs not valid. Ony 2 inputs expected. Start with month as bbb and Year as yyyy.\nSystem shall now use current month and Year\n"))
+  cat(paste0("==========================================================================================\n\n\n"))
+  current_month = format(Sys.Date(), "%b")
+  current_year = format(Sys.Date(), "%Y")
+} else {
+  
+  # Take the first input  
+  input_1 = inputs[1]
+  
+  # Check if it is a valid month 
+  mon_check = monfun(input_1)
+
+  if(is.na(mon_check)){
+    cat(paste0("==============================================================================================="))
+    cat(paste0("\nHinweis: First input is not a valid month in the format bbb. Shall use the current month instead\n"))
+    cat(paste0("===============================================================================================\n\n\n"))
+    current_month =  format(Sys.Date(), "%b")
+  } else {
+      current_month = input_1
+  }
+  
+  # Take the second input 
+  input_2 = inputs[2]
+  
+  # Check if it is a valid year 
+  year_check = yearnum(input_2)
+  if(year_check == "warning"){
+    cat(paste0("==============================================================================================="))
+    cat(paste0("\nHinweis: Second input is not a valid year in the form yyyy. Shall use the current year instead\n"))
+    cat(paste0("===============================================================================================\n\n\n"))
+    current_year = format(Sys.Date(), "%Y")
+  } else {
+    current_year = input_2  
+    }
+  
+}
+
+income_data = read.delim("update_income.txt", sep = ",", header = FALSE, stringsAsFactors = FALSE)
+valid_dates = format(as.Date(income_data$V1, format = "%Y%b%d"), "%Y%m")
+year_and_month = format(as.Date(paste0(current_year, current_month, "01"), format = "%Y%b%d"), "%Y%m")
+if(year_and_month < min(valid_dates) | year_and_month > max(valid_dates)){
+  cat(paste0("No results. Time requested outside valid period\n"))
+  } else {
+    SavingsExpenses(year_and_month = year_and_month)
+  }

@@ -10,6 +10,8 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
                            total_monthly_expenses = TRUE, 
                            total_expenses = TRUE){
   
+  # Read income file 
+  income_dat = read.delim("update_income.txt", sep = ",", header = FALSE, stringsAsFactors = FALSE)
   
   # read the file 
   data = read.csv(filename, stringsAsFactors = FALSE)
@@ -69,10 +71,10 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     months_paid = unique(format(final_table$time, "%Y-%m"))
     
     # No. of months paid 
-    nmon = length(months_paid)
+    nmon = length(income_dat$V1)
     
     # Total income 
-    total_income = nmon * av_salary
+    total_income = sum(income_dat$V2)
     
     # Total savings 
     total_savings = total_income - sum(final_table$amt) 
@@ -95,6 +97,7 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
   
   
 }
+
 
 if(length(inputs) > 0) {
   year_and_month = as.numeric(format(as.Date(paste0(inputs[1], inputs[2], "01"), format = "%b%Y%d"), "%Y%m"))

@@ -139,7 +139,7 @@ monfun = function(month){
 
 if(length(inputs) != 2) {
   cat(paste0("==========================================================================================\n"))
-  cat(paste0("No of inputs not valid. Ony 2 inputs expected. Start with month as bbb and Year as yyyy.\nSystem shall now use current month and Year\n"))
+  cat(paste0("No of inputs not valid. Two inputs are expected. Start with month as bbb and Year as yyyy.\nSystem shall now use current month and Year\n"))
   cat(paste0("==========================================================================================\n\n\n"))
   current_month = format(Sys.Date(), "%b")
   current_year = format(Sys.Date(), "%Y")

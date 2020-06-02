@@ -99,7 +99,7 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     cat(paste0("\nTotal Savings for the last ", nmon, " months = Eur ", format(total_savings, big.mark = ","), "\n"))
     
     # Save output file 
-    table2save = data.frame(time = format(final_table[, 1], "%Y-%b-%m %H:%M"), final_table[, c(2, 3)])
+    table2save = data.frame(time = format(final_table[, 1], "%Y-%b-%d %H:%M"), final_table[, c(2, 3)])
     write.table(x = table2save, file = output_file, sep = ",", row.names = FALSE, quote = FALSE)
     
     }

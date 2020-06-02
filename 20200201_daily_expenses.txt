@@ -248,3 +248,4 @@ date,time,description,amount
 01.06.2020,09.00,Telkom Arrears,40
 01.06.2020,10.00,Unity Media,21.50
 01.06.2020,11.00,Deutsche Bank damages,6
+02.06.2020,12.13,Dustbin Amazon,20.00

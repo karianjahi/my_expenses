@@ -1,5 +1,5 @@
 cat(paste0("\n\n\n\n----------------------------------------------------------------------"))
-cat(paste0("\nRun the script as Rscript 20200216_expenses_function.R mmm yyyy nnnn \nwhere mmm is month abbreviation and yyyy is year in full\nE.g Rscript 20200216_expenses_function.R Sep 2015\n"))
+cat(paste0("\nRun the script as 'Rscript 20200216_expenses_function.R mmm yyyy' \nwithout the quotes where mmm is month abbreviation and yyyy \nis the year in full.\nE.g Rscript 20200216_expenses_function.R Sep 2015\n"))
 cat(paste0("----------------------------------------------------------------------\n\n\n"))
 
 inputs = commandArgs(trailingOnly = TRUE)

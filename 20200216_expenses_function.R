@@ -85,8 +85,8 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     # Total income 
     total_income = sum(income_dat$V2)
     
-    # Total savings 
-    total_savings = total_income - sum(final_table$amt) 
+    # Total savings q
+      total_savings = total_income - sum(final_table$amt) 
     
     # Total expenses 
     total_expenses = sum(final_table$amt)

@@ -15,7 +15,7 @@ date,time,description,amount
 05.02.2020,21.35,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.28
 06.02.2020,18.52,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,13.05
 06.02.2020,20.15,Mogogo Eat joint Stephanienstr.2a 76133 Karlsruhe,16.3
-08.02.2020,12.22,Transport KVV Karsruhe,2.6
+08.02.2020,12.22,Transport KVV Karlsruhe,2.6
 08.02.2020,15.59,Transport KVV Durmeisheim,4.4
 08.02.2020,16.37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
 08.02.2020,17.15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
@@ -162,7 +162,7 @@ date,time,description,amount
 11.04.2020,18.43,Food Items Tiengenerstr.2 76227 Karlsruhe-Durlach,1.56
 14.04.2020,16.18,Food Items Sindbad Food Adlerstr.36 76133 Karlsruhe,11.08
 14.04.2020,16.15,Food Items Asia Store Markgrafenstr. 27 76131 Karlsruhe,28.26
-14.04.2020,17.15,Food Items Lidl Tivoliplatz 1 76137 Karsruhe,1.99
+14.04.2020,17.15,Food Items Lidl Tivoliplatz 1 76137 Karlsruhe,1.99
 14.04.2020,16.53,Hygiene DM Kaiserstr.92 76133 Karlsruhe,16.85
 14.04.2020,16.35,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,14.31
 14.04.2020,23.00,Furniture DanDiBo-Ambiente Ziegenberg.7-9 29649 Wietzendorf,18.99
@@ -257,3 +257,6 @@ date,time,description,amount
 04.06.2020,19.36,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.34
 04.06.2020,19.04,Food Items Sindbad Adlerstr.36 76133 Karlsruhe,28.05
 04.06.2020,18.58,Food Items Asia Store Markgrafenstr.27 76131 Karlsruhe,38.12
+08.06.2020,17.30,Deutsche Post Rueppurrerstr.1 76137 Karlsruhe,2.50
+09.06.2020,18.24,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,36.61
+10.06.2020,12.29,Bluetooth Car adapter Amazon,22.66

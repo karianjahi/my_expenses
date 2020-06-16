@@ -263,3 +263,5 @@ time,desc,amt
 2020-Jun-10 20:27,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
 2020-Jun-13 18:31,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,45.45
 2020-Jun-15 17:51,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,4.66
+2020-Jun-16 17:45,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,8.91
+2020-Jun-16 19:43,Iphone 7 Amazon,193.89

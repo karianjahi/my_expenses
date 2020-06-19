@@ -265,3 +265,9 @@ time,desc,amt
 2020-Jun-15 17:51,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,4.66
 2020-Jun-16 17:45,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,8.91
 2020-Jun-16 19:43,Iphone 7 Amazon,193.89
+2020-Jun-17 17:21,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.8
+2020-Jun-18 18:05,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,15.78
+2020-Jun-19 13:30,Reifen Change Autostalnoj Gebrueder-Bachertstr.1 76135 Karlsruhe,15
+2020-Jun-19 16:20,Handy Halterung Amazon,10.99
+2020-Jun-19 19:30,Zulassungstelle Karlsruhe steinhaeuserstr.22,66.7
+NA,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,40.01

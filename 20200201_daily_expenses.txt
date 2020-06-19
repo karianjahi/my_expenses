@@ -268,4 +268,6 @@ date,time,description,amount
 19.06.2020,19.30,Zulassungstelle Karlsruhe steinhaeuserstr.22,66.70
 18.06.2020,2015,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,40.01
 18.06.2020,18.05,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,15.78
-17.06.2020,17.21,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,,3.80
+17.06.2020,17.21,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.80
+19.06.2020,13.30,Reifen Change Autostalnoj Gebrueder-Bachertstr.1 76135 Karlsruhe,15.00
+19.06.2020,16.20,Handy Halterung Amazon,10.99

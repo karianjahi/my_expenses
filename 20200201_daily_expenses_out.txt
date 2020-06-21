@@ -267,7 +267,11 @@ time,desc,amt
 2020-Jun-16 19:43,Iphone 7 Amazon,193.89
 2020-Jun-17 17:21,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.8
 2020-Jun-18 18:05,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,15.78
+2020-Jun-18 20:15,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,40.01
+2020-Jun-19 00:50,Parkschein Adlerstr.42 76133 Karlsruhe,0.5
 2020-Jun-19 13:30,Reifen Change Autostalnoj Gebrueder-Bachertstr.1 76135 Karlsruhe,15
 2020-Jun-19 16:20,Handy Halterung Amazon,10.99
+2020-Jun-19 17:57,Food Items Sindbad Adlerstr.36 76133 Karlsruhe,25.76
 2020-Jun-19 19:30,Zulassungstelle Karlsruhe steinhaeuserstr.22,66.7
-NA,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,40.01
+2020-Jun-19 20:43,Parkschein Bruchsal,1.6
+2020-Jun-20 16:03,Birthday present Jane Ngei DM Raiherwiesenstr..36 76227 Karlsruhe,1.25

@@ -275,3 +275,10 @@ date,time,description,amount
 19.06.2020,20.43,Parkschein Bruchsal, 1.60
 19.06.2020,0.50,Parkschein Adlerstr.42 76133 Karlsruhe,0.50
 19.06.2020,17.57,Food Items Sindbad Adlerstr.36 76133 Karlsruhe,25.76
+21.06.2020,08.21,Lycamobile credit online,10
+21.06.2020,09.43,Lycamobile Total tankstelle erlachseeweg.10 76227 Karlsruhe,10
+21.06.2020,09.42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,37.97
+21.06.2020,12.07,Broetchen Metzgerei Gebr. Schmidt Gymnasiumstr.40 74072 Heilbronn,0.70
+21.06.2020,15.00,Eve Hair Heilbronn,20
+
+

@@ -275,3 +275,8 @@ time,desc,amt
 2020-Jun-19 19:30,Zulassungstelle Karlsruhe steinhaeuserstr.22,66.7
 2020-Jun-19 20:43,Parkschein Bruchsal,1.6
 2020-Jun-20 16:03,Birthday present Jane Ngei DM Raiherwiesenstr..36 76227 Karlsruhe,1.25
+2020-Jun-21 08:21,Lycamobile credit online,10
+2020-Jun-21 09:42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,37.97
+2020-Jun-21 09:43,Lycamobile Total tankstelle erlachseeweg.10 76227 Karlsruhe,10
+2020-Jun-21 12:07,Broetchen Metzgerei Gebr. Schmidt Gymnasiumstr.40 74072 Heilbronn,0.7
+2020-Jun-21 15:00,Eve Hair Heilbronn,20

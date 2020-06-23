@@ -280,5 +280,13 @@ date,time,description,amount
 21.06.2020,09.42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,37.97
 21.06.2020,12.07,Broetchen Metzgerei Gebr. Schmidt Gymnasiumstr.40 74072 Heilbronn,0.70
 21.06.2020,15.00,Eve Hair Heilbronn,20
+22.06.2020,22.00,Car wash Fiduciastr.14 76227 Karlsruhe,4.00
+22.06.2020,18.19,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,6.44
+22.06.2020,09.19,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,23.24
+23.06.2020,07.08,Kenya Transactions,200
+23.06.2020,13.15,Parkschein Kaiseralle.8 76133 Karlsruhe,0.50
+23.06.2020,20.03,Amazon phonecasing breastpump displayschutz amazon, 69.00
+23.06.2020,14.11,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.19
+23.06.2020,13.38,Donation to a German guy along Kaiseralle,5.00
 
 

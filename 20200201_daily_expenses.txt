@@ -243,7 +243,7 @@ date,time,description,amount
 30.05.2020,16.45,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,4.90
 01.06.2020,15.24,Kenya Transactions,230
 01.06.2020,12.00,Rent,680
-01.06.2020,10.00,Electricity Stadtwerke Karlsruhe,316
+01.06.2020,10.00,Electricity Stadtwerke Karlsruhe,726
 01.06.2020,08.00,Netflix,10
 01.06.2020,09.00,Telkom Arrears,40
 01.06.2020,10.00,Unity Media,21.50
@@ -288,5 +288,13 @@ date,time,description,amount
 23.06.2020,20.03,Amazon phonecasing breastpump displayschutz amazon, 69.00
 23.06.2020,14.11,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.19
 23.06.2020,13.38,Donation to a German guy along Kaiseralle,5.00
+25.06.2020,21.39,Mom loan,140
+24.06.2020,19.55,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,1.99
+24.06.2020,19.42,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.12
+24.06.2020,13.00,Deutsche Post Groetzingen Edeka,0.95
+25.06.2020,17.14,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.60
+25.06.2020,17.31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.56
+
+
 
 

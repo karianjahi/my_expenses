@@ -243,7 +243,7 @@ time,desc,amt
 2020-May-30 16:45,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,4.9
 2020-Jun-01 08:00,Netflix,10
 2020-Jun-01 09:00,Telkom Arrears,40
-2020-Jun-01 10:00,Electricity Stadtwerke Karlsruhe,316
+2020-Jun-01 10:00,Electricity Stadtwerke Karlsruhe,726
 2020-Jun-01 10:00,Unity Media,21.5
 2020-Jun-01 11:00,Deutsche Bank damages,6
 2020-Jun-01 12:00,Rent,680
@@ -288,3 +288,9 @@ time,desc,amt
 2020-Jun-23 13:38,Donation to a German guy along Kaiseralle,5
 2020-Jun-23 14:11,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.19
 2020-Jun-23 20:03,Amazon phonecasing breastpump displayschutz amazon,69
+2020-Jun-24 13:00,Deutsche Post Groetzingen Edeka,0.95
+2020-Jun-24 19:42,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.12
+2020-Jun-24 19:55,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,1.99
+2020-Jun-25 17:14,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.6
+2020-Jun-25 17:31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.56
+2020-Jun-25 21:39,Mom loan,140

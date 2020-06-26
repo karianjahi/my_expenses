@@ -294,6 +294,8 @@ date,time,description,amount
 24.06.2020,13.00,Deutsche Post Groetzingen Edeka,0.95
 25.06.2020,17.14,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.60
 25.06.2020,17.31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.56
+27.06.2020,00.36,Car cleaning kit plus belly belt eve Amazon,68.68
+26.06.2020,17.41,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,31.00
 
 
 

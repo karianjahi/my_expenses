@@ -295,7 +295,13 @@ date,time,description,amount
 25.06.2020,17.14,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.60
 25.06.2020,17.31,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.56
 27.06.2020,00.36,Car cleaning kit plus belly belt eve Amazon,68.68
-26.06.2020,17.41,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,31.00
+26.06.2020,17.47,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,30.35
+27.06.2020,18.17,Soil Bauhaus Kaeppelenstr.2 76131 Karlsruhe,5.99
+27.06.2020,16.54,Charger type-C Saturn Durlacher Alle111 76137 Karlsruhe,14.99
+27.06.2020,16.06,Food Items Lidl Theodor-Rehbockstr.4 76131 Karlsruhe,4.65
+27.06.2020,14.00,Car Wash Fiduciastr.14 76227 Karlsruhe,4.00
+
+
 
 
 

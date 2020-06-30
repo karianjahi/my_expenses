@@ -300,6 +300,7 @@ date,time,description,amount
 27.06.2020,16.54,Charger type-C Saturn Durlacher Alle111 76137 Karlsruhe,14.99
 27.06.2020,16.06,Food Items Lidl Theodor-Rehbockstr.4 76131 Karlsruhe,4.65
 27.06.2020,14.00,Car Wash Fiduciastr.14 76227 Karlsruhe,4.00
+30.06.2020,22.35,ARD 50656 Koeln,52.50
 
 
 

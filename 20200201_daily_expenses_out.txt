@@ -300,3 +300,4 @@ time,desc,amt
 2020-Jun-27 16:06,Food Items Lidl Theodor-Rehbockstr.4 76131 Karlsruhe,4.65
 2020-Jun-27 16:54,Charger type-C Saturn Durlacher Alle111 76137 Karlsruhe,14.99
 2020-Jun-27 18:17,Soil Bauhaus Kaeppelenstr.2 76131 Karlsruhe,5.99
+2020-Jun-30 22:35,ARD 50656 Koeln,52.5

@@ -34,3 +34,11 @@ Date,Milk,Sugared_drink,Bread,daily_jog,Weight_morning_after
 20062020,Yes,Yes,Yes,No,92.7
 21062020,Yes,Yes,Yes,Yes,91.7
 22062020,Yes,No,Yes,Yes,90.2
+23062020,Yes,Yes,Yes,No,90.7
+24062020,Yes,Yes,Yes,No,91.1
+25062020,Yes,Yes,Yes,No,91.3
+26062020,Yes,Yes,Yes,No,90.5
+27062020,Yes,Yes,Yes,No,90.7
+28062020,Yes,Yes,Yes,No,90.1
+29062020,Yes,Yes,Yes,No,89.9
+

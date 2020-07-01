@@ -301,9 +301,11 @@ date,time,description,amount
 27.06.2020,16.06,Food Items Lidl Theodor-Rehbockstr.4 76131 Karlsruhe,4.65
 27.06.2020,14.00,Car Wash Fiduciastr.14 76227 Karlsruhe,4.00
 30.06.2020,22.35,ARD 50656 Koeln,52.50
-
-
-
-
-
-
+01.07.2020,12.00,Rent,680
+01.07.2020,10.00,Electricity Stadtwerke Karlsruhe,300
+01.07.2020,08.00,Netflix,10
+01.07.2020,09.00,Telkom Arrears,40
+01.07.2020,10.00,Unity Media,21.50
+01.07.2020,11.00,Deutsche Bank damages,6
+01.07.2020,09.00,Car Loan Deutsche Bank,249.10
+02.07.2020,13.18,Screen Protector Huawei Amazon,11.89

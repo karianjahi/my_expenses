@@ -308,4 +308,14 @@ date,time,description,amount
 01.07.2020,10.00,Unity Media,21.50
 01.07.2020,11.00,Deutsche Bank damages,6
 01.07.2020,09.00,Car Loan Deutsche Bank,249.10
-02.07.2020,13.18,Screen Protector Huawei Amazon,11.89
+01.07.2020,13.18,Screen Protector Huawei Amazon,11.89
+01.07.2020,18.24,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,5.25
+30.06.2020,20.16,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
+01.07.2020,19.42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,53.41
+01.07.2020,19.27,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.70
+01.07.2020,19.04,Medicine Friesen-Apotheke Durlacher Alle.111 76137 Karlsruhe,0.88
+01.07.2020,18.47,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,2.49
+29.06.2020,17.58,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,7.74
+29.06.2020,12.35,Mouth Freshner Edeka Eisenbahnstr.6 D-76229 Karlsruhe-Groetzingen,2.44
+
+

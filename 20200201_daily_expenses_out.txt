@@ -300,6 +300,9 @@ time,desc,amt
 2020-Jun-27 16:06,Food Items Lidl Theodor-Rehbockstr.4 76131 Karlsruhe,4.65
 2020-Jun-27 16:54,Charger type-C Saturn Durlacher Alle111 76137 Karlsruhe,14.99
 2020-Jun-27 18:17,Soil Bauhaus Kaeppelenstr.2 76131 Karlsruhe,5.99
+2020-Jun-29 12:35,Mouth Freshner Edeka Eisenbahnstr.6 D-76229 Karlsruhe-Groetzingen,2.44
+2020-Jun-29 17:58,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,7.74
+2020-Jun-30 20:16,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
 2020-Jun-30 22:35,ARD 50656 Koeln,52.5
 2020-Jul-01 08:00,Netflix,10
 2020-Jul-01 09:00,Telkom Arrears,40
@@ -308,4 +311,9 @@ time,desc,amt
 2020-Jul-01 10:00,Unity Media,21.5
 2020-Jul-01 11:00,Deutsche Bank damages,6
 2020-Jul-01 12:00,Rent,680
-2020-Jul-02 13:18,Screen Protector Huawei Amazon,11.89
+2020-Jul-01 13:18,Screen Protector Huawei Amazon,11.89
+2020-Jul-01 18:24,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,5.25
+2020-Jul-01 18:47,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,2.49
+2020-Jul-01 19:04,Medicine Friesen-Apotheke Durlacher Alle.111 76137 Karlsruhe,0.88
+2020-Jul-01 19:27,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.7
+2020-Jul-01 19:42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,53.41

@@ -329,4 +329,5 @@ time,desc,amt
 2020-Jul-05 18:35,Food luxuries Erlachseeweg.10 76227 Karlsruhe,3.44
 2020-Jul-06 18:32,Food Items Tiengenerstr.2 76227 Karlsruhe,23.98
 2020-Jul-06 18:57,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,2.93
+2020-Jul-07 11:00,Car annual tax,64
 2020-Jul-07 12:30,Steve Funeral contributions,50

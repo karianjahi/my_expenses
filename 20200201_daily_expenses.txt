@@ -330,3 +330,4 @@ date,time,description,amount
 03.07.2020,19.49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,11.16
 03.07.2020,20.26,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.98
 03.07.2020,18.06,Food luxuries kuchen Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,5.47
+07.07.2020,11.00,Car annual tax,64

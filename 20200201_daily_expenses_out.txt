@@ -317,3 +317,16 @@ time,desc,amt
 2020-Jul-01 19:04,Medicine Friesen-Apotheke Durlacher Alle.111 76137 Karlsruhe,0.88
 2020-Jul-01 19:27,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.7
 2020-Jul-01 19:42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,53.41
+2020-Jul-02 10:00,Something,15
+2020-Jul-03 13:00,Deutsche Post Groetzingen Edeka,0.95
+2020-Jul-03 18:06,Food luxuries kuchen Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,5.47
+2020-Jul-03 19:49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,11.16
+2020-Jul-03 20:00,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.27
+2020-Jul-03 20:26,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.98
+2020-Jul-04 10:49,Clothing Winterstr.3 76137 Karlsruhe,8
+2020-Jul-04 13:08,Food luxuries Fiduciastr.2 76227 Karlsruhe,6.6
+2020-Jul-05 18:21,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,1.5
+2020-Jul-05 18:35,Food luxuries Erlachseeweg.10 76227 Karlsruhe,3.44
+2020-Jul-06 18:32,Food Items Tiengenerstr.2 76227 Karlsruhe,23.98
+2020-Jul-06 18:57,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,2.93
+2020-Jul-07 12:30,Steve Funeral contributions,50

@@ -335,3 +335,4 @@ time,desc,amt
 2020-Jul-11 19:14,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,37.67
 2020-Jul-13 09:00,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,1
 2020-Jul-13 09:48,MobilVoip,13
+2020-Jul-13 13:42,Kenya Transactions,20

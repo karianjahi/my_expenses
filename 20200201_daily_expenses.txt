@@ -335,3 +335,5 @@ date,time,description,amount
 13.07.2020,09.00,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,1.00
 11.07.2020,19.14,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,37.67
 09.07.2020,09.57,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,59.65
+13.07.2020,13.42,Kenya Transactions,20.00
+

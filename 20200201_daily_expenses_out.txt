@@ -331,3 +331,7 @@ time,desc,amt
 2020-Jul-06 18:57,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,2.93
 2020-Jul-07 11:00,Car annual tax,64
 2020-Jul-07 12:30,Steve Funeral contributions,50
+2020-Jul-09 09:57,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,59.65
+2020-Jul-11 19:14,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,37.67
+2020-Jul-13 09:00,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,1
+2020-Jul-13 09:48,MobilVoip,13

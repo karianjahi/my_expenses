@@ -20,7 +20,7 @@ date,time,description,amount
 08.02.2020,16.37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
 08.02.2020,17.15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
 10.02.2020,18.36,Food Items Penny Am Storrenacker.1b,6.65
-10.02.2020,18.59,Food Items Aldi Sued Tiengenerstr.2,6.24
+10.02.2020,18.59,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,6.24
 11.02.2020,09.00,Transport KVV Karlsruhe,2.6
 11.02.2020,10.22,Driving license fee steinhaeuserstr.22,8.7
 11.02.2020,12.38,Clothing Woolworth Europaplatz,6.56
@@ -336,4 +336,47 @@ date,time,description,amount
 11.07.2020,19.14,Food Items Aldi Sued Hohenzollernstr.69 76135 Karlsruhe,37.67
 09.07.2020,09.57,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,59.65
 13.07.2020,13.42,Kenya Transactions,20.00
+13.07.2020,20.13,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.74
+18.07.2020,09.58,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,53.82
+16.07.2020,21.52,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,4.30
+19.07.2020,18.33,Lycamobile credit Online pay,10
+19.07.2020,20.16,Car taxes number K118.8340.6867,64
+18.07.2020,20.44,Gasoline Killisfeldstr.44 76227 Karlsruhe,58.54
+18.07.2020,14.51,Food items Sindbad Adlerstr.36 76133 Karlsruhe,5
+18.07.2020,14.53,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,32.15
+18.07.2020,13.55,Clothing Diakonisches Werk Karlsruhe Winterstr.3 76137 Karlsruhe,29
+18.07.2020,15.27,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,8.88
+13.07.2020,22.09,Gasoline Waldhornstr.14-16 76137 Karlsruhe,55.40
+13.07.2020,19.00,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.52
+21.07.2020,15.30,Kenya Transactions Celina sister hospital,45
+21.07.2020,19.41,Basket Morgengold BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,14.57
+20.07.2020,19.25,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.70
+20.07.2020,19.06,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,12.10
+31.07.2020,18.19,Gasoline Waldhornstr.14-16 76137 Karlsruhe,56.03
+22.07.2020,17.56,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,9.48
+22.07.2020,21.30,Gasoline Rueppurrerstr.102 76137 Karlsruhe,55.06
+22.07.2020,21.30,Gasoline Rueppurrerstr.102 76137 Karlsruhe,0.29
+24.07.2020,17.48,Deutsche Post Ag 76229 Karlsruhe,0.8
+27.07.2020,18.22,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,10.00
+25.07.2020,20.57,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.17
+27.07.2020,18.02,Food Items Tiengenerstr.2 76227 Karlsruhe,31.22
+30.07.2020,17.48,Deutsche Post Ag 76229 Karlsruhe,.8
+29.07.2020,18.31,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,10.00
+25.07.2020,09.41,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,22.30
+27.07.2020,19.36,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,3.39
+31.07.2020,18.01,Food Items Asian Store Markgrafenstr.27 Karlsruhe,52.04
+30.07.2020,19.19,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,10.00
+01.08.2020,09.28,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,25.33
+01.08.2020,09.41,Car wash Fiduciastr.14 76227 Karlsruhe,4.00
+01.08.2020,10.30,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,4.00 
+01.08.2020,12.00,Rent,680
+01.08.2020,10.00,Electricity Stadtwerke Karlsruhe,450
+02.08.2020,11.00,Kenya Transactions,200
+01.08.2020,08.00,Netflix,10
+01.08.2020,09.00,Telkom Arrears,40
+01.08.2020,10.00,Unity Media,21.50
+01.08.2020,11.00,Deutsche Bank damages,6
+01.08.2020,09.00,Car Loan Deutsche Bank,249.10
+03.08.2020,13.18,Amazon shaving machine,26.95
+03.08.2020,17.20,Amazon car rubber glue,6.03
 

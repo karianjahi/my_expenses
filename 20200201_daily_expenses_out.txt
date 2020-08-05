@@ -379,3 +379,4 @@ time,desc,amt
 2020-Aug-02 11:00,Kenya Transactions,200
 2020-Aug-03 13:18,Amazon shaving machine,26.95
 2020-Aug-03 17:20,Amazon car rubber glue,6.03
+2020-Aug-04 17:20,Overspeeding fines,15

@@ -379,4 +379,5 @@ date,time,description,amount
 01.08.2020,09.00,Car Loan Deutsche Bank,249.10
 03.08.2020,13.18,Amazon shaving machine,26.95
 03.08.2020,17.20,Amazon car rubber glue,6.03
+04.08.2020,17.20,Overspeeding fines,15.00
 

@@ -381,4 +381,5 @@ date,time,description,amount
 03.08.2020,17.20,Amazon car rubber glue,6.03
 04.08.2020,17.20,Overspeeding fines,15.00
 07.08.2020,15.18,Wall tape Amazon,6.99
+09.08.2020,21.00,3 Fans Amazon,62
 

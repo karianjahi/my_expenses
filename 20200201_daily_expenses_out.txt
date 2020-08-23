@@ -262,6 +262,7 @@ time,desc,amt
 2020-Jun-10 12:29,Bluetooth Car adapter Amazon,22.66
 2020-Jun-10 20:27,Food Items Indian Store Online Augstenstr.63-1 70178 Stuttgart,18.9
 2020-Jun-13 18:31,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,45.45
+2020-Jun-14 06:07,Food Items Werner-von-Siemens-Str. 24 76646 Bruchsal,1.65
 2020-Jun-15 17:51,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,4.66
 2020-Jun-16 17:45,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,8.91
 2020-Jun-16 19:43,Iphone 7 Amazon,193.89
@@ -398,3 +399,17 @@ time,desc,amt
 2020-Aug-08 22:21,household Insurance Deutsche bank,17.57
 2020-Aug-09 19:16,Emmanuel and Dad luxury drinks Erlachseeweg 10 76227 Karlsruhe,5.47
 2020-Aug-09 21:00,3 Fans Amazon,62
+2020-Aug-10 13:29,Food Items Tiengenerstr.2 76227 Karlsruhe,0.64
+2020-Aug-10 18:06,Gasoline Shell Garcia GmbH Groetzingerstr.57 76227 Karlsruhe,50.01
+2020-Aug-12 09:34,Masken Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,1.98
+2020-Aug-14 15:58,Food Items Aldi Steinaeckerstr. 4 71292 Friolzheim,13.2
+2020-Aug-15 19:58,Food Items DM Raiherwiesenstr.36 76227 Karlsruhe,16.92
+2020-Aug-15 20:27,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,22.53
+2020-Aug-19 16:23,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,11.29
+2020-Aug-19 17:05,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,5.19
+2020-Aug-21 20:24,Food Items Aldi Theodor-Rehbockstr.17 76131 Karlsruhe,30.73
+2020-Aug-22 09:10,Amazon Emmanuel car wie Joseph,11
+2020-Aug-22 12:13,Family Photos DM Kaeppelenstr.5a 76131 Karlsruhe,29.14
+2020-Aug-22 20:19,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,23.35
+2020-Aug-22 20:31,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,10.39
+2020-Aug-22 20:46,Food Items Edeka aktiv markt Bruesseler Ring 1 76344 Leopoldshafen,0.57

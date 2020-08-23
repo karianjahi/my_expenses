@@ -399,3 +399,20 @@ date,time,description,amount
 07.08.2020,19.10,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,4.09
 07.08.2020,18.53,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,33.26
 22.08.2020,09.10,Amazon Emmanuel car wie Joseph, 11
+10.08.2020,13.29,Food Items Tiengenerstr.2 76227 Karlsruhe,0.64
+10.08.2020,18.06,Gasoline Shell Garcia GmbH Groetzingerstr.57 76227 Karlsruhe,50.01
+22.08.2020,20.46,Food Items Edeka aktiv markt Bruesseler Ring 1 76344 Leopoldshafen,.57
+22.08.2020,20.31,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,10.39
+22.08.2020,20.19,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,23.35
+22.08.2020,12.13,Family Photos DM Kaeppelenstr.5a 76131 Karlsruhe,29.14
+21.08.2020,20.24,Food Items Aldi Theodor-Rehbockstr.17 76131 Karlsruhe,30.73
+19.08.2020,17.05,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,5.19
+19.08.2020,16.23,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,11.29
+15.08.2020,20.27,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,22.53
+15.08.2020,19.58,Food Items DM Raiherwiesenstr.36 76227 Karlsruhe,16.92
+14.08.2020,15.58,Food Items Aldi Steinaeckerstr. 4 71292 Friolzheim,13.20
+14.06.2020,06.07,Food Items Werner-von-Siemens-Str. 24 76646 Bruchsal,1.65
+12.08.2020,09.34,Masken Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,1.98
+
+
+

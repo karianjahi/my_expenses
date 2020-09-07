@@ -413,7 +413,11 @@ date,time,description,amount
 14.08.2020,15.58,Food Items Aldi Steinaeckerstr. 4 71292 Friolzheim,13.20
 14.06.2020,06.07,Food Items Werner-von-Siemens-Str. 24 76646 Bruchsal,1.65
 12.08.2020,09.34,Masken Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,1.98
+<<<<<<< HEAD
 26.08.2020,22.35,Amazon Eve Kollagen, 33
+=======
+24.08.2020,12.49,Tablet for Emmanuel Amazon,53.60
+>>>>>>> 9c52531cf1036ef3473b958c6fc4e48b350a7289
 
 
 

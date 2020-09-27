@@ -102,7 +102,7 @@ time,desc,amt
 2020-Mar-20 17:35,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe,3.46
 2020-Mar-20 22:10,Unity Media Aachener str. 746-750 50933 Koeln,80.63
 2020-Mar-21 17:20,Hygiene Items DM Karlstr.36 76133 Karlsruhe,22.9
-2020-Mar-23 11:12,Hygiene Items DM Kaisertr.92 76133 Karlsruhe,13.65
+2020-Mar-23 11:12,Hygiene Items DM Kaiserstr.92 76133 Karlsruhe,13.65
 2020-Mar-23 16:14,Hygiene Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.65
 2020-Mar-23 16:29,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,-1.06
 2020-Mar-23 16:37,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe-Durlach,0.75
@@ -414,3 +414,43 @@ time,desc,amt
 2020-Aug-22 20:31,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,10.39
 2020-Aug-22 20:46,Food Items Edeka aktiv markt Bruesseler Ring 1 76344 Leopoldshafen,0.57
 2020-Aug-24 12:49,Tablet for Emmanuel Amazon,53.6
+2020-Aug-25 11:40,Food Items Lidl Bruesseler Ring 3 76344 Leopoldshafen,27.33
+2020-Aug-26 18:29,Food Items Tiengenerstr.2 76227 Karlsruhe,4.35
+2020-Aug-26 22:35,Amazon Eve Kollagen,33
+2020-Aug-28 18:11,Food Items Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,25.67
+2020-Aug-28 18:25,Deutsche Post Ag 76229 Karlsruhe,1.55
+2020-Sep-01 08:00,Netflix,10
+2020-Sep-01 09:00,Telkom Arrears,40
+2020-Sep-01 09:00,Car Loan Deutsche Bank,249.1
+2020-Sep-01 10:00,Electricity Stadtwerke Karlsruhe,450
+2020-Sep-01 10:00,Unity Media,21.5
+2020-Sep-01 11:00,Deutsche Bank damages,6
+2020-Sep-01 12:00,Rent,680
+2020-Sep-01 18:54,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,6.53
+2020-Sep-02 11:00,Kenya Transactions,200
+2020-Sep-02 19:41,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,30.28
+2020-Sep-04 19:30,Food Items Kliver New-York-Str.1 76149 Karlsruhe,76.17
+2020-Sep-04 20:03,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.9
+2020-Sep-04 20:11,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,10.57
+2020-Sep-04 20:15,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,2.94
+2020-Sep-05 09:47,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,16.25
+2020-Sep-05 10:33,Food Items Kashka Kaiserstr.172 76133 Karlsruhe,4
+2020-Sep-05 13:04,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,3.96
+2020-Sep-07 19:36,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,1.94
+2020-Sep-07 19:57,Mom,20
+2020-Sep-09 19:50,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,5.59
+2020-Sep-09 20:15,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,8.61
+2020-Sep-10 19:10,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,11.95
+2020-Sep-12 10:04,Food Items Asian Store Markgrafenstr.27 Karlsruhe,30
+2020-Sep-12 10:35,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,15.61
+2020-Sep-12 12:32,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,38.85
+2020-Sep-13 17:18,Dowry Eve,396
+2020-Sep-14 19:57,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.64
+2020-Sep-15 13:11,Eve Lycamobile Aldi Sued Killisfeldstr.46 76227 Karlsruhe,10
+2020-Sep-17 07:18,Eve train ticket,5.2
+2020-Sep-18 06:18,Emmanuel accessories deutsche bank withdraw,50
+2020-Sep-19 20:17,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,47.43
+2020-Sep-21 19:00,Deutsche Post,2.35
+2020-Sep-21 19:17,Food Items DM Ludwig Erhard Alee 10 76131 Karlsruhe,2.94
+2020-Sep-22 09:26,Food Items Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,2.37
+2020-Sep-22 10:00,Eve train ticket,2.6

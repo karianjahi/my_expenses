@@ -454,5 +454,10 @@ date,time,description,amount
 14.09.2020,19.57,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,11.64
 15.09.2020,13.11,Eve Lycamobile Aldi Sued Killisfeldstr.46 76227 Karlsruhe,10.00
 19.09.2020,20.17,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,47.43
-
+27.09.2020,15.24,Kenya mom to Guka,23.00
+26.09.2020,19.59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,5.51
+26.09.2020,19.37,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,0.47
+26.09.2020,18.45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.62
+24.09.2020,20.34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.54
+23.09.2020,18.39,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.83
 

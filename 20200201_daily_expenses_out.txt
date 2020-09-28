@@ -454,3 +454,9 @@ time,desc,amt
 2020-Sep-21 19:17,Food Items DM Ludwig Erhard Alee 10 76131 Karlsruhe,2.94
 2020-Sep-22 09:26,Food Items Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,2.37
 2020-Sep-22 10:00,Eve train ticket,2.6
+2020-Sep-23 18:39,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.83
+2020-Sep-24 20:34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.54
+2020-Sep-26 18:45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.62
+2020-Sep-26 19:37,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,0.47
+2020-Sep-26 19:59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,5.51
+2020-Sep-27 15:24,Kenya mom to Guka,23

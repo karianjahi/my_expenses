@@ -460,4 +460,5 @@ date,time,description,amount
 26.09.2020,18.45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.62
 24.09.2020,20.34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.54
 23.09.2020,18.39,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.83
+01.10.2020,09.00,Holiday Park fee Ngei Katumo,75
 

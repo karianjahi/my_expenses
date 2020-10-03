@@ -48,7 +48,7 @@ time,desc,amt
 2020-Feb-22 21:30,DAZN TW13 7BZ United Kingdom,11.99
 2020-Feb-24 18:08,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
 2020-Feb-24 18:33,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
-2020-Feb-24 19:03,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
+2020-Feb-24 19:03,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
 2020-Feb-25 09:30,headphones Kaiserstr. 70-74 76133 Karlsruhe,5
 2020-Feb-26 09:44,Transport Mulburger Tor direction Europaplatz,2.6
 2020-Feb-26 18:26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,18.04
@@ -303,7 +303,7 @@ time,desc,amt
 2020-Jun-27 18:17,Soil Bauhaus Kaeppelenstr.2 76131 Karlsruhe,5.99
 2020-Jun-29 12:35,Mouth Freshner Edeka Eisenbahnstr.6 D-76229 Karlsruhe-Groetzingen,2.44
 2020-Jun-29 17:58,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,7.74
-2020-Jun-30 20:16,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
+2020-Jun-30 20:16,Food Items Audi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
 2020-Jun-30 22:35,ARD 50656 Koeln,52.5
 2020-Jul-01 08:00,Netflix,10
 2020-Jul-01 09:00,Telkom Arrears,40
@@ -458,5 +458,23 @@ time,desc,amt
 2020-Sep-24 20:34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.54
 2020-Sep-26 18:45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.62
 2020-Sep-26 19:37,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,0.47
-2020-Sep-26 19:59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,5.51
+2020-Sep-26 19:59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,15.51
 2020-Sep-27 15:24,Kenya mom to Guka,23
+2020-Sep-28 18:51,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,41.05
+2020-Sep-28 19:44,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,1.17
+2020-Sep-28 20:06,luxury items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.53
+2020-Sep-29 18:15,luxury butterbroetchen Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.36
+2020-Sep-29 19:18,Emmanuel Kieserblock A4 Ettlinger Tor Platz 1 76133 Karlsruhe,2.91
+2020-Oct-01 00:00,Deutsche Bank damages,6
+2020-Oct-01 09:00,Holiday Park fee Ngei Katumo,75
+2020-Oct-01 09:00,ARD 50656 Koeln,17.5
+2020-Oct-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+2020-Oct-01 10:00,Electricity Stadtwerke Karlsruhe,450
+2020-Oct-01 10:00,Entertainment Netflix,10
+2020-Oct-01 11:45,Rent Bergwald,680
+2020-Oct-01 12:40,Kenya transactions,255
+2020-Oct-01 19:50,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.74
+2020-Oct-01 20:00,Telkom arrears,40
+2020-Oct-02 08:00,Kilimanjaro restaurant family out dayVorholzstraße 13 76137 Karlsruhe,52.5
+2020-Oct-02 17:46,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
+2020-Oct-02 17:49,Food luxuries kuchen Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,5.26

@@ -48,7 +48,7 @@ date,time,description,amount
 22.02.2020,21.30,DAZN TW13 7BZ United Kingdom,11.99
 24.02.2020,18.08,Furniture BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,2.05
 24.02.2020,18.33,Food Items DM Raiherwiesenstr. 36 76227 Karlsruhe,2.45
-24.02.2020,19.03,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
+24.02.2020,19.03,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,24.77
 25.02.2020,09.30,headphones Kaiserstr. 70-74 76133 Karlsruhe,5
 26.02.2020,09.44,Transport Mulburger Tor direction Europaplatz,2.6
 26.02.2020,18.26,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,18.04
@@ -310,7 +310,7 @@ date,time,description,amount
 01.07.2020,09.00,Car Loan Deutsche Bank,249.10
 01.07.2020,13.18,Screen Protector Huawei Amazon,11.89
 01.07.2020,18.24,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,5.25
-30.06.2020,20.16,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
+30.06.2020,20.16,Food Items Audi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.32
 01.07.2020,19.42,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,53.41
 01.07.2020,19.27,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,4.70
 01.07.2020,19.04,Medicine Friesen-Apotheke Durlacher Alle.111 76137 Karlsruhe,0.88
@@ -455,10 +455,34 @@ date,time,description,amount
 15.09.2020,13.11,Eve Lycamobile Aldi Sued Killisfeldstr.46 76227 Karlsruhe,10.00
 19.09.2020,20.17,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,47.43
 27.09.2020,15.24,Kenya mom to Guka,23.00
-26.09.2020,19.59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,5.51
+26.09.2020,19.59,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,15.51
 26.09.2020,19.37,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,0.47
 26.09.2020,18.45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,20.62
 24.09.2020,20.34,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.54
 23.09.2020,18.39,Food Items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.83
+29.09.2020,19.18,Emmanuel Kieserblock A4 Ettlinger Tor Platz 1 76133 Karlsruhe,2.91
+29.09.2020,18.15,luxury butterbroetchen Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.36
+28.09.2020,20.06,luxury items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.53
+28.09.2020,19.44,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,1.17
+28.09.2020,18.51,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,41.05
 01.10.2020,09.00,Holiday Park fee Ngei Katumo,75
+01.10.2020,09.00,ARD 50656 Koeln,17.50
+01.10.2020,12.40,Kenya transactions,255
+01.10.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,21.19
+01.10.2020,20.00,Telkom arrears,40
+01.10.2020,11.45,Rent Bergwald,680
+01.10.2020,10.00,Electricity Stadtwerke Karlsruhe,450
+01.10.2020,00.00,Deutsche Bank damages,6
+01.10.2020,10.00,Entertainment Netflix,10.00
+02.10.2020,17.46,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
+01.10.2020,19.50,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.74
+02.10.2020,08.00,Kilimanjaro restaurant family out dayVorholzstraße 13 76137 Karlsruhe,52.50
+02.10.2020,17.49,Food luxuries kuchen Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,5.26
+
+
+
+
+
+
+
 

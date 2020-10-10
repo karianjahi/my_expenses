@@ -478,6 +478,28 @@ date,time,description,amount
 01.10.2020,19.50,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.74
 02.10.2020,08.00,Kilimanjaro restaurant family out dayVorholzstraße 13 76137 Karlsruhe,52.50
 02.10.2020,17.49,Food luxuries kuchen Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,5.26
+09.10.2020,19.16,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,21.52
+05.10.2020,08.50,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,3.17
+08.10.2020,18.50,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,6.49
+07.10.2020,08.00,Luxury items Sabrina da Silva Am Alexanderplatz 75015 Bretten,1.54
+08.10.2020,19.40676,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.74
+08.10.2020,19.19,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,14.54
+06.10.2020,09.09,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,6.55
+07.10.2020,17.52,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
+06.10.2020,08.30,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,8.00
+05.10.2020,08.35,Medicine Apotheke Bernd Jost Bergbahnstr.2a 76227 Karlsruhe-Durlach,35.07
+09.10.2020,19.45,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,3.32
+05.10.2020,09.26,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,2.74
+10.10.2020,18.13,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,33.01
+10.10.2020,17.23,Food Items Edeka Lukasiewicz Fritz-Erler-str. 1-3 D-76133 Karlsruhe,3.86
+10.10.2020,17.10,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,10.81
+10.10.2020,16.52,Food Items Asian Store Markgrafenstr.27 Karlsruhe,4.58
+10.10.2020,16.50,Food Items Asian Store Markgrafenstr.27 Karlsruhe,12.92
+09.10.2020,19.30,Eve KVV tageskarte,6.70
+
+
+
+
 
 
 

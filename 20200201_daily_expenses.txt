@@ -496,6 +496,15 @@ date,time,description,amount
 10.10.2020,16.52,Food Items Asian Store Markgrafenstr.27 Karlsruhe,4.58
 10.10.2020,16.50,Food Items Asian Store Markgrafenstr.27 Karlsruhe,12.92
 09.10.2020,19.30,Eve KVV tageskarte,6.70
+15.10.2020,07.18,Amazon Emmanuel Kinder Uhr,23.99
+15.10.2020,19.44,House carpet and curtains Momax am storrenacker 2 76139 Karlsruhe,129.86
+15.10.2020,17.48,Food luxuries Laugenbrezel Baeckerei Nussbaumer GmbH Eisenbahnstr.6 76229 Karlsruhe-Groetzingen,0.80
+15.10.2020,17.47,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
+14.10.2020,18.03,Food luxuries EDEKA Rothfuss Eisenbahnstr.6 76229 Karlsruhe, .94
+14.10.2020,18.01,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.60
+13.10.2020,18.44,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.32
+12.10.2020,18.25,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,14.32
+
 
 
 

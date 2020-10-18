@@ -504,8 +504,7 @@ date,time,description,amount
 14.10.2020,18.01,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.60
 13.10.2020,18.44,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.32
 12.10.2020,18.25,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,14.32
-
-
+16.10.2020,18.02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,45.41
 
 
 

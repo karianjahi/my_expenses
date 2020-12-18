@@ -482,7 +482,7 @@ date,time,description,amount
 05.10.2020,08.50,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,3.17
 08.10.2020,18.50,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,6.49
 07.10.2020,08.00,Luxury items Sabrina da Silva Am Alexanderplatz 75015 Bretten,1.54
-08.10.2020,19.40676,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.74
+08.10.2020,19.40,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,6.74
 08.10.2020,19.19,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,14.54
 06.10.2020,09.09,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,6.55
 07.10.2020,17.52,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
@@ -505,14 +505,87 @@ date,time,description,amount
 13.10.2020,18.44,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.32
 12.10.2020,18.25,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,14.32
 16.10.2020,18.02,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,45.41
-
-
-
-
-
-
-
-
-
-
-
+25.10.2020,18.00,Eve give back uberweisung,140
+20.10.2020,18.46, Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,2.76
+21.10.2020,14.01,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
+26.10.2020,18.51,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,19.39
+24.10.2020,14.02,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,22.01
+24.10.2020,17.28,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,1.43
+22.10.2020,19.22,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,16.15
+24.10.20,13.45,Parkhaus Kronenplatz Fritz-Erler-Str.7-11 76133 Karlsruhe,1.00
+28.10.2020,10.00,Eve train ticket,2.60
+28.10.2020,20.29,Mom Loan,95
+01.11.2020,09.00,ARD 50656 Koeln,17.50
+01.11.2020,12.40,Kenya transactions,200
+01.11.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,50
+01.11.2020,20.00,Telkom arrears,40
+01.11.2020,11.45,Rent Bergwald,680
+01.11.2020,10.00,Electricity Stadtwerke Karlsruhe,450
+01.11.2020,00.00,Deutsche Bank damages,6
+01.11.2020,10.00,Entertainment Netflix,10.00
+01.11.2020,21.45,Eliannah Birth Certificate application from stadt Karlsruhe,24
+04.11.2020,13.05,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,4.77
+04.10.2020,12.57,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
+29.10.2020,19.30, Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,12.15
+29.10.2020,11.54,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,6.08
+03.11.2020,19.43,Food Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.44
+28.10.2020,14.43,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,.80
+24.10.2020,13.45,Parking fees Fritz-Erler-Str. 7-11 76133 Karlsruhe,1.00
+03.11.2020,19.24,Food Items Aldi Theodor-Rehbockstr.17 76131 Karlsruhe,2.51
+03.11.2020,19.05,Emmanuel Ast BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,3.31
+31.10.2020,17.56,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,88.23
+31.10.2020,16.44,Food Items Kliver New-York-Str.1 76149 Karlsruhe,14.63
+31.10.2020,15.46,Drinking water Total Station Erlachseeweg.10 76227 Karlsruhe,2.06
+30.10.2020,12.59,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.83
+11.11.2020,21.30,Flight ticket to Kenya,513
+11.11.2020,21.45,Train Ticket frankfurt to Karlsruhe and back,43
+11.11.2020,07.30,urspitz with veges neibsheim,4.3
+10.11.2020,18.27,Food Items Netto Rommelstr.5 76227 Karlsruhe,10.78
+10.11.2020,07.46,Food Items Netto Joehlingerstr. 4 75045 Walzbachtal,2.40
+06.11.2020,19.43,Food Items real GmbH Durlacher Allee 111 76137 Karlsruhe,15.63
+07.11.2020,18.26,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,24
+07.11.2020,19.57,Food Items DM Kaiserstr.152-154 76133 Karlsruhe,23.14
+11.11.2020,12.59,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,3.90
+11.11.2020,09.48,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
+11.11.2020,15.26,Lycamobile and luxuries Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,10.56
+27.11.2020,09.00,Creditcard charges,33.53
+02.12.2020,22.20,Overspeeding fines Bretten,25.00
+25.11.2020,19.00,Overspeeding fines Gondelsheim,15
+03.12.2020,04.25,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,8.61
+25.11.2020,14.18,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
+25.11.2020,09.26,Luxury foods Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,1.05
+25.11.2020,14.20,Food luxuries EDEKA Rothfuss Eisenbahnstr.6 76229 Karlsruhe, 2.09
+30.11.2020,18.18,Advent Calendar DM Raiherwiesenstr.36 76227 Karlsruhe,20
+25.1.2020,19.10, Baby Food Items DM pfinztalstr.46-50 76227 Karlsruhe,19.88
+13.11.2020,19.59,Food Items DM Ettlinger Tor Platz 1 76133 Karlsruhe,24.34
+26.11.2020,18.27,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,21.49
+27.11.2020,14.05,Luxury foods Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,3.72
+27.11.2020,18.03, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,0.87
+13.11.2020,20.11,Parking fees Ettlinger Tor Karl-Friedrich-Str. 26 76133 Karlsruhe,1.00
+14.11.2020,17.21,clothing C&A Kaiserstr.52-56 76133 Karlsruhe,69.49
+14.11.2020,17.41,clothing C&A Kaiserstr.52-56 76133 Karlsruhe,42.86
+14.11.2020,19.55,Food Items Sindbad Adlerstr. 36 76133 Karlsruhe,11.36
+14.11.2020,19.39,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,26.52
+17.11.2020,14.23,Luxury foods Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,4.46
+20.11.2020,17.41,Advent Calendar DM Raiherwiesenstr.36 76227 Karlsruhe,13.38
+20.11.2020,18.08,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,41.10
+21.11.2020,13.50,Food Items Kliver New-York-Str.1 76149 Karlsruhe,41.04
+21.11.2020,14.45,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,15.09
+27.11.2020,18.25,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,9.64
+29.11.2020,09.37,Eve Pads Sabrina da Silva Am Alexanderplatz 75015 Bretten,1.69
+02.12.2020,17.59,Food Items Netto Rommelstr.5 76227 Karlsruhe,8.52
+01.12.2020,18.26,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,26.59
+01.12.2020,09.00,ARD 50656 Koeln,17.50
+01.12.2020,12.40,Kenya transactions,200
+01.12.2020,10.00,Unity Media Aachener str. 746-750 50933 Koeln,50
+01.12.2020,20.00,Telkom arrears,40
+01.12.2020,11.45,Rent Bergwald,680
+01.12.2020,10.00,Electricity Stadtwerke Karlsruhe,450
+01.12.2020,00.00,Deutsche Bank damages,6
+01.12.2020,10.00,Entertainment Netflix,10.00
+01.12.2020,20.10,Household insurance,20
+13.12.2020,20.10,Mom expenses,475
+13.12.2020,20.10,kenya expenses,140.18
+08.12.2020,20.10,kenya expenses,95.00
+15.12.2020,21.00,covid-19 test Durlach,64
+18.12.2020,12.50,Diakonie-Linkenheim Emmanuel Kindergarten,10

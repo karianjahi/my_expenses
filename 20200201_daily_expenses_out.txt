@@ -21,12 +21,12 @@ time,desc,amt
 2020-Feb-08 15:59,Transport KVV Durmeisheim,4.4
 2020-Feb-08 16:37,Lycamobile Aldi Sued Heilberg.13 76448 Durmersheim,10
 2020-Feb-08 17:15,Food Items Aldi Sued Heilberg.13 76448 Durmersheim,1.14
-2020-Feb-10 18:36,Food Items Penny Am Storrenacker.1b,6.65
+2020-Feb-10 18:36,Food Items Penny Am Storrenacker 1b 76139 Karlsruhe,6.65
 2020-Feb-10 18:59,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,6.24
 2020-Feb-11 09:00,Transport KVV Karlsruhe,2.6
 2020-Feb-11 10:22,Driving license fee steinhaeuserstr.22,8.7
 2020-Feb-11 12:38,Clothing Woolworth Europaplatz,6.56
-2020-Feb-11 15:50,Food Items Penny Scheffel Str.1,15.13
+2020-Feb-11 15:50,Food Items Penny - Markt Scheffelstr.1 76135 Karlsruhe,15.13
 2020-Feb-11 16:00,Transport KVV Karlsruhe,2.6
 2020-Feb-12 18:37,Food Items Aldi Sued Woeschbacherstr.29 76327 Pfinztal,13.65
 2020-Feb-13 10:03,Transport Muelburger Tor direction Europaplatz,2.6
@@ -403,7 +403,7 @@ time,desc,amt
 2020-Aug-09 21:00,3 Fans Amazon,62
 2020-Aug-10 13:29,Food Items Tiengenerstr.2 76227 Karlsruhe,0.64
 2020-Aug-10 18:06,Gasoline Shell Garcia GmbH Groetzingerstr.57 76227 Karlsruhe,50.01
-2020-Aug-12 09:34,Masken Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,1.98
+2020-Aug-12 09:34,Masken Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,1.98
 2020-Aug-14 15:58,Food Items Aldi Steinaeckerstr. 4 71292 Friolzheim,13.2
 2020-Aug-15 19:58,Food Items DM Raiherwiesenstr.36 76227 Karlsruhe,16.92
 2020-Aug-15 20:27,Food Items Killisfeldstr. 46 76227 Karlsruhe-Durlach,22.53
@@ -475,7 +475,7 @@ time,desc,amt
 2020-Oct-01 10:00,Entertainment Netflix,10
 2020-Oct-01 11:45,Rent Bergwald,680
 2020-Oct-01 12:40,Kenya transactions,255
-2020-Oct-01 19:50,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.74
+2020-Oct-01 19:50,Luxury foods Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.74
 2020-Oct-01 20:00,Telkom arrears,40
 2020-Oct-02 08:00,Kilimanjaro restaurant family out dayVorholzstraße 13 76137 Karlsruhe,52.5
 2020-Oct-02 17:46,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
@@ -521,7 +521,7 @@ time,desc,amt
 2020-Oct-28 20:29,Mom Loan,95
 2020-Oct-29 11:54,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,6.08
 2020-Oct-29 19:30, Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,12.15
-2020-Oct-30 12:59,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.83
+2020-Oct-30 12:59,Luxury foods Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,2.83
 2020-Oct-31 15:46,Drinking water Total Station Erlachseeweg.10 76227 Karlsruhe,2.06
 2020-Oct-31 16:44,Food Items Kliver New-York-Str.1 76149 Karlsruhe,14.63
 2020-Oct-31 17:56,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,88.23
@@ -537,7 +537,7 @@ time,desc,amt
 2020-Nov-03 19:05,Emmanuel Ast BAUHAUS Käppelestr. 2 76131 Karlsruhe - Oststadt,3.31
 2020-Nov-03 19:24,Food Items Aldi Theodor-Rehbockstr.17 76131 Karlsruhe,2.51
 2020-Nov-03 19:43,Food Items DM Raiherwiesenstr.36 76227 Karlsruhe,3.44
-2020-Nov-04 13:05,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,4.77
+2020-Nov-04 13:05,Luxury foods Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,4.77
 2020-Nov-06 19:43,Food Items real GmbH Durlacher Allee 111 76137 Karlsruhe,15.63
 2020-Nov-07 18:26,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,24
 2020-Nov-07 19:57,Food Items DM Kaiserstr.152-154 76133 Karlsruhe,23.14
@@ -545,8 +545,8 @@ time,desc,amt
 2020-Nov-10 18:27,Food Items Netto Rommelstr.5 76227 Karlsruhe,10.78
 2020-Nov-11 07:30,urspitz with veges neibsheim,4.3
 2020-Nov-11 09:48,Deutsche Post AG Eisenbahnstr.6 76229 Karlsruhe,1.55
-2020-Nov-11 12:59,Luxury foods Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,3.9
-2020-Nov-11 15:26,Lycamobile and luxuries Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,10.56
+2020-Nov-11 12:59,Luxury foods Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,3.9
+2020-Nov-11 15:26,Lycamobile and luxuries Lidl Eisenbahnstr.8 76229 Karlsruhe-Groetzingen,10.56
 2020-Nov-11 21:30,Flight ticket to Kenya,513
 2020-Nov-11 21:45,Train Ticket frankfurt to Karlsruhe and back,43
 2020-Nov-13 19:59,Food Items DM Ettlinger Tor Platz 1 76133 Karlsruhe,24.34
@@ -584,6 +584,31 @@ time,desc,amt
 2020-Dec-02 17:59,Food Items Netto Rommelstr.5 76227 Karlsruhe,8.52
 2020-Dec-02 22:20,Overspeeding fines Bretten,25
 2020-Dec-03 04:25,Gasoline Total Station Erlachseeweg.10 76227 Karlsruhe,8.61
+2020-Dec-05 16:38,Food Items Kliver New-York-Str.1 76149 Karlsruhe,36.33
+2020-Dec-05 19:11,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3
+2020-Dec-05 19:22,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,19.06
+2020-Dec-05 19:22,Clothing C&A Kaiserstr.52-56 76133 Karlsruhe,140.18
+2020-Dec-05 19:56,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,51.81
+2020-Dec-05 20:19,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,4.81
 2020-Dec-08 20:10,kenya expenses,95
 2020-Dec-13 20:10,Mom expenses,475
 2020-Dec-13 20:10,kenya expenses,140.18
+2020-Dec-14 19:29,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,19.48
+2020-Dec-14 19:38,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,9.99
+2020-Dec-15 16:00,Car parts - brake pads and disc and oil air and inside filters,123.53
+2020-Dec-15 19:15,Food Items Lidl Eisenbahnstr.8 D-76229 Karlsruhe-Groetzingen,8.06
+2020-Dec-15 21:00,covid-19 test Durlach,64
+2020-Dec-17 08:20,Food Items Penny Durlacherstr.84 76356 Weingarten,31
+2020-Dec-18 12:50,Diakonie-Linkenheim Emmanuel Kindergarten,10
+2020-Dec-18 16:45,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,11.23
+2020-Dec-18 18:27,Food Items Netto Rommelstr.5 76227 Karlsruhe,4.37
+2020-Dec-18 18:45,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,1.32
+2020-Dec-19 17:08,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,42.77
+2020-Dec-21 18:56,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,9.88
+2020-Dec-23 11:01,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,3.84
+2020-Dec-23 17:27, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,1.24
+2020-Dec-24 11:35,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,18.55
+2020-Dec-24 11:52,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,4.45
+2020-Dec-24 11:58, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.2
+2020-Dec-24 20:00,Kenya Transactions gifts mom eve kanyua orphans martin waweru,50
+2020-Dec-25 23:10,mould paint and brush,31.79

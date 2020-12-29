@@ -612,3 +612,4 @@ date,time,description,amount
 05.12.2020,19.22,Clothing C&A Kaiserstr.52-56 76133 Karlsruhe,140.18
 05.12.2020,16.38,Food Items Kliver New-York-Str.1 76149 Karlsruhe,36.33
 15.12.2020,16.00,Car parts - brake pads and disc and oil air and inside filters,123.53
+29.12.2020,11.00,Cartridge toner amazon,10.00

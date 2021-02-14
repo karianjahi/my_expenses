@@ -65,10 +65,10 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     monthly_expenses = sum(month_table$amt)
     
     # income mons 
-    income_mons = format(as.Date(income_dat$V1, "%Y%b%d"), "%m")
-    
+    income_mons = format(as.Date(income_dat$V1, "%Y%b%d"), "%Y%m")
+
     # Which mon is requested 
-    mon_req = substr(year_and_month, 5, 6)
+    mon_req = substr(year_and_month, 1, 6)
     
     # Income for month requested
     income4mon_requested = income_dat[which(income_mons == mon_req), 2]
@@ -90,7 +90,7 @@ SavingsExpenses = function(filename = "20200201_daily_expenses.txt",
     
     # Total expenses 
     total_expenses = sum(final_table$amt)
-    
+ 
     #cat(paste0("\nAverage Total Income so far = Eur ", format(total_income, big.mark = ","), "\n"))
     cat(paste0("\nAverage Total Expenses since 1st February 2020 = Eur ", format(total_expenses, big.mark = ","), "\n"))
     cat(paste0("\nMonthly income for the month of ", mon, " ",  year, " = Eur ", format(income4mon_requested, big.mark = ","), "\n"))

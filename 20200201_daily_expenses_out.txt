@@ -327,7 +327,7 @@ time,desc,amt
 2020-Jul-03 20:00,Hygiene DM Raiherwiesenstr.36 76227 Karlsruhe,3.27
 2020-Jul-03 20:26,Food Items Aldi Sued Killisfeldstr.46 76227 Karlsruhe,7.98
 2020-Jul-04 10:49,Clothing Winterstr.3 76137 Karlsruhe,8
-2020-Jul-04 13:08,Food luxuries Fiduciastr.2 76227 Karlsruhe,6.6
+2020-Jul-04 13:08,Food luxuries Diner Fiduciastr.2 76227 Karlsruhe,6.6
 2020-Jul-05 18:21,Car Staubsauger Erlachseeweg.10 76227 Karlsruhe,1.5
 2020-Jul-05 18:35,Food luxuries Erlachseeweg.10 76227 Karlsruhe,3.44
 2020-Jul-06 18:32,Food Items Tiengenerstr.2 76227 Karlsruhe,23.98
@@ -466,7 +466,7 @@ time,desc,amt
 2020-Sep-28 19:44,Hygiene Items DM pfinztalstr.46-50 76227 Karlsruhe,1.17
 2020-Sep-28 20:06,luxury items Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,6.53
 2020-Sep-29 18:15,luxury butterbroetchen Scheck-in Marstallstr.18 D-76227 Karlsruhe-Durlach,1.36
-2020-Sep-29 19:18,Emmanuel Kieserblock A4 Ettlinger Tor Platz 1 76133 Karlsruhe,2.91
+2020-Sep-29 19:18,Emmanuel Kieserblock A4 Mueller Ettlinger Tor Platz 1 76133 Karlsruhe,2.91
 2020-Oct-01 00:00,Deutsche Bank damages,6
 2020-Oct-01 09:00,Holiday Park fee Ngei Katumo,75
 2020-Oct-01 09:00,ARD 50656 Koeln,17.5
@@ -612,3 +612,67 @@ time,desc,amt
 2020-Dec-24 11:58, Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe,3.2
 2020-Dec-24 20:00,Kenya Transactions gifts mom eve kanyua orphans martin waweru,50
 2020-Dec-25 23:10,mould paint and brush,31.79
+2020-Dec-28 07:05,Food Items Neff Durlacherstr. 86 76356 Weingarten,7.77
+2020-Dec-28 07:49,Food Items Netto Rommelstr.5 76227 Karlsruhe,10.76
+2020-Dec-28 19:24,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,18.98
+2020-Dec-28 19:33,Food luxuries Diner Fiduciastr.2 76227 Karlsruhe,9.9
+2020-Dec-29 07:14,Food Items Netto Rommelstr.5 76227 Karlsruhe,5.45
+2020-Dec-29 11:00,Cartridge toner amazon,10
+2020-Dec-30 09:11,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,6.27
+2020-Dec-30 09:22,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,0.38
+2020-Dec-31 12:22,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,23.94
+2020-Dec-31 12:39,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,11.82
+2021-Jan-01 00:00,Deutsche Bank damages,6
+2021-Jan-01 09:00,ARD 50656 Koeln,17.5
+2021-Jan-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,50
+2021-Jan-01 10:00,Electricity Stadtwerke Karlsruhe,450
+2021-Jan-01 10:00,Entertainment Netflix,10
+2021-Jan-01 11:45,Rent Bergwald,680
+2021-Jan-01 12:40,Kenya transactions,200
+2021-Jan-01 20:00,Telkom arrears,40
+2021-Jan-01 20:10,Household insurance,20
+2021-Jan-02 19:26,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,5.74
+2021-Jan-02 19:35,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,3.61
+2021-Jan-04 15:25,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,5.48
+2021-Jan-04 15:35,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,6.15
+2021-Jan-05 07:05,Food Items Rewe Durlacherstr. 84-86 76356 Weingarten,1.36
+2021-Jan-05 07:05,Food Items Baecker  Durlacherstr. 84-86 76356 Weingarten,6.49
+2021-Jan-05 07:33,Food Items Netto Rommelstr.5 76227 Karlsruhe,15.19
+2021-Jan-08 07:25,Food Items Baecker Rittnerstr. 3 76227 Karlsruhe,6.05
+2021-Jan-08 15:14,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,22.74
+2021-Jan-09 09:23,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,18.56
+2021-Jan-12 18:34,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,4.6
+2021-Jan-12 18:58,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,28.38
+2021-Jan-12 19:18,Food Items Netto Rommelstr.5 76227 Karlsruhe,3.88
+2021-Jan-14 09:34,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,1.7
+2021-Jan-15 11:15,Food Items Aldi Sued Am Hasenbiel 2 76297 Stutensee/Blankeloch,44.7
+2021-Jan-18 09:16,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,24.9
+2021-Jan-18 19:30,Food Items Kliver New-York-Str.1 76149 Karlsruhe,47.6
+2021-Jan-19 09:14,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,5.53
+2021-Jan-21 14:07,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,7.63
+2021-Jan-21 18:24,Food Items Netto Rommelstr.5 76227 Karlsruhe,1.94
+2021-Jan-22 13:49,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,7.39
+2021-Jan-23 08:56,Send Eve Phone to Ebay CIGO Paul-Gerhardt Str. 8-10 76646 Bruchsal,4.05
+2021-Jan-23 18:57,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,3.72
+2021-Jan-25 12:44,Emmanuel Farbstift und Kleber A4 Mueller Ettlinger Tor Platz 1 76133 Karlsruhe,12.68
+2021-Jan-25 13:08,Food luxuries Diner Fiduciastr.2 76227 Karlsruhe,6.6
+2021-Jan-27 11:10,Food luxuries Edeka Wilhelm-Leuschner-Str. 65 76189 Karlsruhe-Oberreut,5.19
+2021-Jan-28 19:41,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,11.5
+2021-Jan-28 20:01,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,26.45
+2021-Jan-29 18:23,Food Items Asian Store Markgrafenstr.27 Karlsruhe,66.77
+2021-Jan-29 18:59,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,13.43
+2021-Jan-30 08:23,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,3.56
+2021-Jan-30 14:40,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,11.6
+2021-Feb-01 00:00,Deutsche Bank damages,6
+2021-Feb-01 09:00,ARD 50656 Koeln,17.5
+2021-Feb-01 10:00,Unity Media Aachener str. 746-750 50933 Koeln,50
+2021-Feb-01 10:00,Electricity Stadtwerke Karlsruhe,450
+2021-Feb-01 10:00,Entertainment Netflix,10
+2021-Feb-01 11:45,Rent Bergwald,680
+2021-Feb-01 12:40,Kenya transactions,200
+2021-Feb-01 20:10,Household insurance,20
+2021-Feb-02 15:07,Amazon Schuhaufbewahrung,16.99
+2021-Feb-03 07:41,Food Items Netto Rommelstr.5 76227 Karlsruhe,8.55
+2021-Feb-05 11:30,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,73.18
+2021-Feb-05 18:56,Food Items Kliver New-York-Str.1 76149 Karlsruhe,33.96
+2021-Feb-05 19:20,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,1.98

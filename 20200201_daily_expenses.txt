@@ -677,6 +677,7 @@ date,time,description,amount
 30.01.2021,14.40,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,11.60
 05.02.2021,11.30,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,73.18
 14.02.2021,20.48,Earbuds Amazon, 13.00
+17.02.2021,14.00,Kitchen washbasin doors Amazon,59.00
 
 
 

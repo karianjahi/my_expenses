@@ -676,3 +676,5 @@ time,desc,amt
 2021-Feb-05 11:30,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,73.18
 2021-Feb-05 18:56,Food Items Kliver New-York-Str.1 76149 Karlsruhe,33.96
 2021-Feb-05 19:20,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,1.98
+2021-Feb-14 20:48,Earbuds Amazon,13
+2021-Feb-17 14:00,Kitchen washbasin doors Amazon,59

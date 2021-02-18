@@ -678,7 +678,14 @@ date,time,description,amount
 05.02.2021,11.30,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,73.18
 14.02.2021,20.48,Earbuds Amazon, 13.00
 17.02.2021,14.00,Kitchen washbasin doors Amazon,59.00
-
-
+18.02.2021,08.49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.81
+16.02.2021,11.43,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,14.23
+18.02.2021,08.45,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.39
+18.01.2021,08.31,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,1.50
+18.02.2021,08.18,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,25.86
+13.02.2021,09.07,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,8
+12.02.2021,19.28,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,54.10
+11.02.2021,07.25,Food Items Netto Joehlingerstr. 4 75045 Walzbachtal,0.76
+09.02.2021,18.55,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,7.73
 
 

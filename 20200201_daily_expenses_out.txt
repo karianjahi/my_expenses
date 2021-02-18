@@ -646,6 +646,7 @@ time,desc,amt
 2021-Jan-12 19:18,Food Items Netto Rommelstr.5 76227 Karlsruhe,3.88
 2021-Jan-14 09:34,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,1.7
 2021-Jan-15 11:15,Food Items Aldi Sued Am Hasenbiel 2 76297 Stutensee/Blankeloch,44.7
+2021-Jan-18 08:31,Food items DM Raiherwiesenstr.36 76227 Karlsruhe,1.5
 2021-Jan-18 09:16,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,24.9
 2021-Jan-18 19:30,Food Items Kliver New-York-Str.1 76149 Karlsruhe,47.6
 2021-Jan-19 09:14,Food Items Aldi Sued Tiengenerstr.2 76227 Karlsruhe-Durlach,5.53
@@ -676,5 +677,13 @@ time,desc,amt
 2021-Feb-05 11:30,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,73.18
 2021-Feb-05 18:56,Food Items Kliver New-York-Str.1 76149 Karlsruhe,33.96
 2021-Feb-05 19:20,Food Items Aldi Sued Waldstr.14-18 76133 Karlsruhe,1.98
+2021-Feb-09 18:55,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,7.73
+2021-Feb-11 07:25,Food Items Netto Joehlingerstr. 4 75045 Walzbachtal,0.76
+2021-Feb-12 19:28,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,54.1
+2021-Feb-13 09:07,Food Items Aldi Sued Karl-Benz-Weg 3 76646 Bruchsal,8
 2021-Feb-14 20:48,Earbuds Amazon,13
+2021-Feb-16 11:43,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,14.23
 2021-Feb-17 14:00,Kitchen washbasin doors Amazon,59
+2021-Feb-18 08:18,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,25.86
+2021-Feb-18 08:45,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,2.39
+2021-Feb-18 08:49,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,5.81

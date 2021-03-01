@@ -687,5 +687,6 @@ date,time,description,amount
 12.02.2021,19.28,Food Items Aldi Sued Killisfeldstr. 46 76227 Karlsruhe-Durlach,54.10
 11.02.2021,07.25,Food Items Netto Joehlingerstr. 4 75045 Walzbachtal,0.76
 09.02.2021,18.55,Food Items Rewe Raiherwiesenstr.38 76227 Karlsruhe-Durlach,7.73
+27.02.2021,19.00,Mum church harambee Kenya,17
 
 
